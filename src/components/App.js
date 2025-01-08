@@ -20,7 +20,7 @@ const initialState = {
   questions: [],
   // 'loading', 'error', 'ready', 'active', 'finished'
   status: 'loading',
-  index: 300,
+  index: 0,
   answer: null,
   points: 0,
   highscore: 0,
