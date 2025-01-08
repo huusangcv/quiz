@@ -53,7 +53,7 @@ function reducer(state, action) {
       return {
         ...state,
         answer: action.payload,
-        points: action.payload === question.correctOption ? state.points + question.points : state.points,
+        points: question.options[action.payload] === question.correctOption ? state.points + 1 : state.points,
       };
     case 'nextQuestion':
       return { ...state, index: state.index + 1, answer: null };

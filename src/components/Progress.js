@@ -5,9 +5,9 @@ function Progress({ index, numQuestions, points, maxPossiblePoints, answer }) {
       <p>
         Câu hỏi <strong>{index + 1}</strong> / {numQuestions}
       </p>
-      {/* <p>
-        <strong>{points}</strong> / {maxPossiblePoints}
-      </p> */}
+      <p>
+        Đúng <strong>{points}</strong> / 384
+      </p>
     </header>
   );
 }
