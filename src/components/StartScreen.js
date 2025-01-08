@@ -6,6 +6,11 @@ function StartScreen({ numQuestions, dispatch }) {
       <button className="btn btn-ui" onClick={() => dispatch({ type: 'start' })}>
         Bắt đầu
       </button>
+      <div style={{ marginTop: 12 }}>
+        <h3>*Lưu ý: Nếu đang làm mà bị restart thì có thể bắt đầu lại và chọn từ câu muốn làm tiếp</h3>
+      </div>
+
+      <span>© by huusangcv</span>
     </div>
   );
 }

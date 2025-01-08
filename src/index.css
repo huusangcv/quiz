@@ -290,9 +290,20 @@ progress {
   top: 0;
 }
 
-.icons {
-  position: absolute;
-  top: -33px;
-  right: 0;
-  width: 28px;
+@media screen and (max-width: 767.98px) {
+  .icons {
+    position: absolute;
+    top: -33px;
+    right: 0;
+    width: 28px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .icons {
+    position: absolute;
+    top: 70px;
+    right: 0;
+    width: 28px;
+  }
 }
