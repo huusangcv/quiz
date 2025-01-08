@@ -5,16 +5,12 @@ function Options({ question, dispatch, answer }) {
     <div>
       {question.options.map((option, index) => (
         <button
-          className={`btn btn-option ${index === answer ? "answer" : ""} ${
-            hasAnswered
-              ? question.options[index] === question.correctOption
-                ? "correct"
-                : "wrong"
-              : ""
+          className={`btn btn-option ${index === answer ? 'answer' : ''} ${
+            hasAnswered ? (question.options[index] === question.correctOption ? 'correct' : 'wrong') : ''
           }`}
           key={index}
           disabled={hasAnswered}
-          onClick={() => dispatch({ type: "newAnswer", payload: index })}
+          onClick={() => dispatch({ type: 'newAnswer', payload: index })}
         >
           {option}
         </button>

@@ -55,8 +55,16 @@ function reducer(state, action) {
         answer: action.payload,
         points: question.options[action.payload] === question.correctOption ? state.points + 1 : state.points,
       };
+    case 'newAnswerChoseQuestion':
+      const questionChose = state.questions.at(state.index);
+      return {
+        ...state,
+        points: state.points + action.payload,
+      };
     case 'nextQuestion':
       return { ...state, index: state.index + 1, answer: null };
+    case 'choseQuestion':
+      return { ...state, index: action.payload, answer: null };
     case 'finish':
       return {
         ...state,
@@ -134,7 +142,7 @@ export default function App() {
                   answer={answer}
                 />
                 <Question question={questions[index]} dispatch={dispatch} answer={answer} />
-                <Footer>
+                <Footer dispatch={dispatch}>
                   <Timer dispatch={dispatch} secondsRemaining={secondsRemaining} />
                   <NextButton dispatch={dispatch} answer={answer} numQuestions={numQuestions} index={index} />
                 </Footer>

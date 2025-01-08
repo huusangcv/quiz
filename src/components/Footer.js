@@ -1,5 +1,12 @@
-function Footer({ children }) {
-  return <footer>{children}</footer>;
+import Sidebar from './Sidebar';
+
+function Footer({ children, dispatch }) {
+  return (
+    <footer>
+      {children}
+      <Sidebar dispatch={dispatch} />
+    </footer>
+  );
 }
 
 export default Footer;
