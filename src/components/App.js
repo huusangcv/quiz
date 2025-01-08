@@ -12,6 +12,7 @@ import FinishScreen from './FinishScreen';
 import Footer from './Footer';
 import Timer from './Timer';
 import '../index.css';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import data from './data.json';
 const SECS_PER_QUESTION = 5;
 
@@ -114,6 +115,7 @@ export default function App() {
   return (
     <div className="wrapper">
       {/* <div className="coppy-right">coppy right to huusangcv</div> */}
+      <SpeedInsights />
       <div className="app">
         <div className="headerWrapper">
           <Header />
