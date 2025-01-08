@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/huusangcv/quiz/static/css/main.a5e8840f.css",
+    "main.js": "/huusangcv/quiz/static/js/main.62a4c9d4.js",
+    "static/media/React_logo1.png": "/huusangcv/quiz/static/media/React_logo1.7feb6621573e09d2a6d9.png",
+    "index.html": "/huusangcv/quiz/index.html",
+    "main.a5e8840f.css.map": "/huusangcv/quiz/static/css/main.a5e8840f.css.map",
+    "main.62a4c9d4.js.map": "/huusangcv/quiz/static/js/main.62a4c9d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5e8840f.css",
+    "static/js/main.62a4c9d4.js"
+  ]
+}
