@@ -10,9 +10,9 @@ function FinishScreen({ points, maxPossiblePoints, highscore, dispatch }) {
 
   return (
     <div className="result_container">
-      <p className="result">
+      {/* <p className="result">
         <span>{percentage}</span> Bạn đã sai <strong>{points}</strong> out of {maxPossiblePoints}
-      </p>
+      </p> */}
       {/* <p className="highscore">(Highscore: {highscore} points)</p> */}
       <button className="btn btn-ui" onClick={() => dispatch({ type: 'restart' })}>
         Làm lại
