@@ -1,5 +1,5 @@
 {
-  "homepage": "https://VINAYAK9669.github.io/React-QuizApp",
+  "homepage": "https://github.com/huusangcv/quiz",
   "name": "faraway",
   "version": "0.1.0",
   "private": true,
@@ -40,8 +40,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.0.0"
   }
 }
