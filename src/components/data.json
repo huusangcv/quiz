@@ -1,0 +1,3463 @@
+[
+  {
+    "id": "0",
+    "question": "Điều nào sau đây không phải là ưu điểm của việc sử dụng quản lý dự án tốt?",
+    "options": [
+      "Rút ngắn thời gian phát triển",
+      "Tinh thần làm việc tốt hơn",
+      "Chi phí vốn thấp hơn",
+      "Lợi nhuận cao hơn"
+    ],
+    "correctOption": "Chi phí vốn thấp hơn"
+  },
+  {
+    "id": "1",
+    "question": "________ là một nỗ lực tạm thời được tiến hành để tạo ra một sản phẩm hoặc dịch vụ duy nhất.",
+    "options": ["Quản lý dự án", "Quá trình", "Dự án", "Danh mục đầu tư"],
+    "correctOption": "Dự án"
+  },
+  {
+    "id": "2",
+    "question": "Thuộc tính nào sau đây không phải là thuộc tính của dự án?",
+    "options": [
+      "Có mục đích rõ ràng, duy nhất",
+      "Cần nhiều tài nguyên của nhiều lĩnh vực khác nhau",
+      "Nhiều người và tổ chức khác nhau cùng tham gia: có khách hàng và/hoặc người tổ chức",
+      "Có ràng buộc về phạm vi, chi phí, thời gian"
+    ],
+    "correctOption": "Có ràng buộc về phạm vi, chi phí, thời gian"
+  },
+  {
+    "id": "3",
+    "question": "QLDA là việc áp dụng _______ vào hoạt động của một dự án nhằm đáp ứng các yêu cầu của dự án.",
+    "options": ["kiến thức (knowledge), kỹ năng (skills), công cụ (tools) và kỹ thuật (techniques)"],
+    "correctOption": "kiến thức (knowledge), kỹ năng (skills), công cụ (tools) và kỹ thuật (techniques)"
+  },
+  {
+    "id": "4",
+    "question": "Tài liệu nào KHÔNG phải là kết quả của giai đoạn xác định yêu cầu?",
+    "options": ["Đề cương dự án", "Kế hoạch quản lý dự án ban đầu", "Danh sách rủi ro", "Kế hoạch triển khai"],
+    "correctOption": "Kế hoạch triển khai"
+  },
+  {
+    "id": "5",
+    "question": "Hoạt động nào KHÔNG thuộc giai đoạn kiểm thử chấp nhận?",
+    "options": [
+      "Tích hợp và kiểm thử toàn bộ hệ thống",
+      "Demo cho khách hàng",
+      "Viết báo cáo kết quả kiểm thử",
+      "Hiệu chỉnh theo yêu cầu"
+    ],
+    "correctOption": "Tích hợp và kiểm thử toàn bộ hệ thống"
+  },
+  {
+    "id": "6",
+    "question": "Dự án là _______ tạm thời được tiến hành để tạo ra một sản phẩm hoặc dịch vụ duy nhất.",
+    "options": ["hoạt động", "nỗ lực", "công việc", "quy trình"],
+    "correctOption": "nỗ lực"
+  },
+  {
+    "id": "7",
+    "question": "Tài liệu đặc tả chức năng được viết trong giai đoạn nào?",
+    "options": ["Xác định yêu cầu", "Phân tích", "Thiết kế", "Thực hiện"],
+    "correctOption": "Phân tích"
+  },
+  {
+    "id": "8",
+    "question": "Câu nào sau đây SAI khi nói về mục đích của quản lý dự án?",
+    "options": [
+      "Khách hàng hài lòng",
+      "Hoàn thành dự án trong thời gian quy định",
+      "Giảm chi phí phát triển dự án",
+      "Đáp ứng đầy đủ mục tiêu đề ra"
+    ],
+    "correctOption": "Giảm chi phí phát triển dự án"
+  },
+  {
+    "id": "9",
+    "question": "Mục tiêu của giai đoạn phân tích là gì?",
+    "options": [
+      "Xác định đầy đủ yêu cầu chức năng của hệ thống",
+      "Xác định các bộ phận, chức năng, và mối liên hệ giữa chúng",
+      "Xác định cách thức hoạt động của hệ thống",
+      "Ước lượng giá thành"
+    ],
+    "correctOption": "Xác định đầy đủ yêu cầu chức năng của hệ thống"
+  },
+  {
+    "id": "10",
+    "question": "Hoạt động biên soạn tài liệu hướng dẫn được bắt đầu thực hiện trong giai đoạn nào?",
+    "options": ["Thiết kế", "Thực hiện", "Kiểm thử hệ thống", "Kiểm thử chấp nhận"],
+    "correctOption": "Thực hiện"
+  },
+  {
+    "id": "11",
+    "question": "Chọn phát biểu đúng về stakeholder",
+    "options": [
+      "Stakeholder là chủ đầu tư của dự án",
+      "Stakeholder bao gồm chủ dự án, người quản lý dự án, khách hàng",
+      "Stakeholder bao gồm tất cả những người liên quan có tác động đến dự án hoặc bị dự án tác động đến",
+      "Stakeholder là những bên liên quan trực tiếp đến dự án"
+    ],
+    "correctOption": "Stakeholder bao gồm tất cả những người liên quan có tác động đến dự án hoặc bị dự án tác động đến"
+  },
+  {
+    "id": "12",
+    "question": "Phát biểu nào sau đây SAI?",
+    "options": [
+      "Dự án có tính duy nhất",
+      "Dự án có một khách hàng và chủ đầu tư chính",
+      "Dự án liên quan tới sự không chắc chắn",
+      "Dự án bị ràng buộc bởi thời gian, chi phí, nhân sự"
+    ],
+    "correctOption": "Dự án có một khách hàng và chủ đầu tư chính"
+  },
+  {
+    "id": "13",
+    "question": "Điều nào sau đây không phải là một phần của trong ba ràng buộc của quản lý dự án?",
+    "options": [
+      "đáp ứng các mục tiêu phạm vi",
+      "đáp ứng các mục tiêu thời gian",
+      "đáp ứng các mục tiêu truyền thông",
+      "đáp ứng các mục tiêu chi phí"
+    ],
+    "correctOption": "đáp ứng các mục tiêu truyền thông"
+  },
+  {
+    "id": "14",
+    "question": "Các lĩnh vực kiến thức cơ bản trong quản lý dự án là",
+    "options": [
+      "nguồn nhân lực, truyền thông, rủi ro, mua sắm",
+      "phạm vi, thời gian, chi phí, chất lượng",
+      "chi phí, thời gian, chất lượng, tích hợp",
+      "tích hợp, nguồn nhân lực, truyền thông, rủi ro"
+    ],
+    "correctOption": "phạm vi, thời gian, chi phí, chất lượng"
+  },
+  {
+    "id": "15",
+    "question": "Điều nào sau đây thuộc lĩnh vực kiến thức quản lý thời gian?",
+    "options": [
+      "Xác định sản phẩm giao nộp",
+      "Triển khai lịch trình thực hiện theo tiến độ",
+      "Xây dựng kế hoạch huy động tài nguyên thực hiện dự án",
+      "Xác định cách tổ chức thực hiện một giai đoạn nào đó của dự án"
+    ],
+    "correctOption": "Triển khai lịch trình thực hiện theo tiến độ"
+  },
+  {
+    "id": "16",
+    "question": "Điều nào sau đây không thuộc lĩnh vực kiến thức quản lý chất lượng?",
+    "options": [
+      "Xác định các chuẩn mực về chất lượng của mỗi sản phẩm giao nộp",
+      "Bảo đảm chất lượng của mỗi sản phẩm giao nộp",
+      "Quản lý về sự thay đổi chất lượng",
+      "Xác định cách tổ chức thực hiện một giai đoạn nào đó của dự án"
+    ],
+    "correctOption": "Xác định cách tổ chức thực hiện một giai đoạn nào đó của dự án"
+  },
+  {
+    "id": "17",
+    "question": "Điều nào sau đây không phải là một phần của quản lý tích hợp?",
+    "options": [
+      "Đảm bảo các thành phần khác nhau trong dự án được phối hợp hài hòa, nhất quán",
+      "Xây dựng và hoàn thiện kế hoạch dự án",
+      "Triển khai kế hoạch dự án",
+      "Phát triển nghiệp vụ dự án"
+    ],
+    "correctOption": "Phát triển nghiệp vụ dự án"
+  },
+  {
+    "id": "18",
+    "question": "Giai đoạn nào sau đây không phải là một trong các giai đoạn của dự án CNTT? (c2)",
+    "options": ["phân tích", "xác định", "phát triển", "thực hiện"],
+    "correctOption": "phát triển"
+  },
+  {
+    "id": "19",
+    "question": "Quy trình ______ thường chiếm nhiều thời gian và tài nguyên nhất để thực thi dự án vì sản phẩm của dự án được tạo ra trong giai đoạn này.",
+    "options": [
+      "Khởi động dự án (Initiating)",
+      "Lập kế hoạch dự án (Planning)",
+      "Thực thi dự án (Executing)",
+      "Kiểm soát và điều khiển (Monitoring and controlling)"
+    ],
+    "correctOption": "Thực thi dự án (Executing)"
+  },
+  {
+    "id": "20",
+    "question": "Kết quả nào sau đây thường được hoàn thành trong quy trình khởi động dự án?",
+    "options": ["Đăng ký các bên liên quan", "Hoàn tất các nghiệp vụ", "Điều lệ dự án", "Cuộc họp khởi động"],
+    "correctOption": "Hoàn tất các nghiệp vụ"
+  },
+  {
+    "id": "21",
+    "question": "Biểu đồ phân rã công việc (WBS), phát biểu về phạm vi dự án và danh sách các rủi ro là kết quả đầu ra của quy trình ______.",
+    "options": [
+      "Khởi động dự án (Initiating)",
+      "Lập kế hoạch dự án (Planning)",
+      "Thực thi dự án (Executing)",
+      "Kiểm soát và điều khiển (Monitoring and controlling)"
+    ],
+    "correctOption": "Lập kế hoạch dự án (Planning)"
+  },
+  {
+    "id": "22",
+    "question": "______ bao gồm việc đo tiến độ đạt được các mục tiêu của dự án, theo dõi độ lệch so với kế hoạch và thực hiện các hoạt động chỉnh sửa cho phù hợp.",
+    "options": [
+      "Khởi động dự án (Initiating)",
+      "Lập kế hoạch dự án (Planning)",
+      "Thực thi dự án (Executing)",
+      "Kiểm soát và điều khiển (Monitoring and controlling)"
+    ],
+    "correctOption": "Kiểm soát và điều khiển (Monitoring and controlling)"
+  },
+  {
+    "id": "23",
+    "question": "Chọn mệnh đề sai",
+    "options": [
+      "Qui trình kiểm soát và điều khiển xảy ra trong tất cả các giai đoạn của chu trình số dự án",
+      "Qui trình thực thi tác động đến tất cả các nhóm quy trình khác",
+      "Một trong các kết quả của quá trình khởi động là hoàn tất các nghiệp vụ (business case)",
+      "Quy trình lập kế hoạch không bao gồm việc hoàn tất tuyên bố dự án"
+    ],
+    "correctOption": "Qui trình thực thi tác động đến tất cả các nhóm quy trình khác"
+  },
+  {
+    "id": "24",
+    "question": "____________ là tài liệu chính thức xác nhận sự tồn tại của dự án và đưa ra định hướng để thực hiện về các mục tiêu của dự án và quản lý dự án. (c4)",
+    "options": ["Tuyên bố dự án (Project charter)", "Hợp đồng", "Nghiệp vụ", "Kế hoạch quản lý dự án"],
+    "correctOption": "Tuyên bố dự án (Project charter)"
+  },
+  {
+    "id": "25",
+    "question": "Nội dung nào sau đây thường không có trong tuyên bố dự án? (c4)",
+    "options": ["Tên của người quản lý dự án", "Thông tin ngân sách", "Chữ ký của các bên liên quan", "Biểu đồ Gantt"],
+    "correctOption": "Biểu đồ Gantt"
+  },
+  {
+    "id": "26",
+    "question": "_________ là những sản phẩm được tạo ra như là một phần của dự án, như phần cứng, phần mềm, tài liệu đào tạo, chuyển giao, bảo hành,…",
+    "options": [
+      "Các sản phẩm trung gian (deliverables)",
+      "Các mốc quan trọng",
+      "Phạm vi (scope)",
+      "Phát triển sản phẩm"
+    ],
+    "correctOption": "Phạm vi (scope)"
+  },
+  {
+    "id": "27",
+    "question": "___________ là cây phân cấp các nhóm công việc cần thực hiện trong dự án, nó xác định phạm vi tổng thể của dự án.",
+    "options": ["Tuyên bố phạm vi", "Cấu trúc phân rã công việc (WBS)", "Từ điển WBS", "Gói công việc"],
+    "correctOption": "Cấu trúc phân rã công việc (WBS)"
+  },
+  {
+    "id": "28",
+    "question": "Cách tiếp cận nào để phát triển một WBS liên quan đến việc viết ra hoặc vẽ ra các ý tưởng ở định dạng phi tuyến tính?",
+    "options": ["Từ trên xuống (top-down)", "Từ dưới lên (bottom-up)", "Tiếp cận tương tự (analogy)", "Mind – Mapping"],
+    "correctOption": "Mind – Mapping"
+  },
+  {
+    "id": "29",
+    "question": "Giả sử bạn có một dự án với các hạng mục chính được gọi là lập kế hoạch, phân tích, thiết kế và thử nghiệm. Các mục này sẽ nằm ở cấp độ nào của WBS?",
+    "options": ["0", "1", "2", "3"],
+    "correctOption": "2"
+  },
+  {
+    "id": "30",
+    "question": "Kế hoạch quản lý phạm vi được bao gồm trong tài liệu nào sau đây?",
+    "options": [
+      "Kế hoạch dự án",
+      "Cơ cấu phân chia công việc (WBS)",
+      "Phát biểu phạm vi (Scope Statement)",
+      "Tuyên bố dự án (Project Charter)"
+    ],
+    "correctOption": "Phát biểu phạm vi (Scope Statement)"
+  },
+  {
+    "id": "31",
+    "question": "Điều sau đây không đúng về tuyên bố phạm vi dự án (Scope Statement)",
+    "options": [
+      "Nó là một đầu ra của xác định phạm vi.",
+      "Nó mô tả chi tiết các sản phẩm của dự án và công việc cần thiết để tạo ra các sản phẩm đó.",
+      "Nó cung cấp sự hiểu biết chung về phạm vi dự án giữa tất cả các bên liên quan.",
+      "Nó mô tả các mục tiêu chính của dự án"
+    ],
+    "correctOption": "Nó là một đầu ra của xác định phạm vi."
+  },
+  {
+    "id": "32",
+    "question": "Phát biểu nào sau đây là đúng về WBS?",
+    "options": [
+      "WBS là cơ sở để ước lượng chi phí",
+      "WBS là một danh sách các hoạt động không có cấu trúc",
+      "WBS cũng giống như cấu trúc phân tích tổ chức",
+      "WBS đề cập đến hóa đơn nguyên vật liệu"
+    ],
+    "correctOption": "WBS là cơ sở để ước lượng chi phí"
+  },
+  {
+    "id": "33",
+    "question": "Quy trình đầu tiên trong việc quản lý thời gian dự án là gì?",
+    "options": [
+      "xác định các mốc quan trọng",
+      "xác định các hoạt động",
+      "ước lượng thời gian cho mỗi hoạt động",
+      "sắp xếp thứ tự các hoạt động"
+    ],
+    "correctOption": "xác định các hoạt động"
+  },
+  {
+    "id": "34",
+    "question": "Là người quản lý dự án của một dự án phát triển phần mềm, bạn đang giúp phát triển lịch trình của dự án. Bạn quyết định rằng việc viết mã cho hệ thống không nên bắt đầu cho đến khi người dùng đăng nhập vào công việc phân tích. Loại phụ thuộc này là gì?",
+    "options": ["kỹ thuật", "bắt buộc", "tùy chọn", "bên ngoài"],
+    "correctOption": "tùy chọn"
+  },
+  {
+    "id": "35",
+    "question": "Bạn không thể bắt đầu chỉnh sửa báo cáo kỹ thuật cho đến khi người khác hoàn thành bản thảo đầu tiên. Điều này đại diện cho loại phụ thuộc tác vụ nào?",
+    "options": ["finish-to-start", "start-to-start", "finish-to-finish", "start-to-finish"],
+    "correctOption": "finish-to-start"
+  },
+  {
+    "id": "36",
+    "question": "Mệnh đề nào sau đây là sai?",
+    "options": [
+      "Cấu trúc phân tích tài nguyên là cấu trúc phân cấp xác định các tài nguyên của dự án theo danh mục và loại.",
+      "Thời gian tiêu tốn (duration) và nỗ lực (effort) là những thuật ngữ đồng nghĩa.",
+      "Ước tính ba trường hợp (kỹ thuật PERT) là ước lượng bao gồm ước lượng lạc quan nhất, ước lượng trung bình và ước lượng bi quan nhất.",
+      "Sơ đồ Gantt là một công cụ phổ biến để hiển thị thông tin về lịch biểu của dự án."
+    ],
+    "correctOption": "Thời gian tiêu tốn (duration) và nỗ lực (effort) là những thuật ngữ đồng nghĩa."
+  },
+  {
+    "id": "37",
+    "question": "Biểu tượng nào trên biểu đồ Gantt đại diện cho một cột mốc bị trượt?",
+    "options": ["một mũi tên đen", "một mũi tên trắng", "một viên kim cương đen", "một viên kim cương trắng"],
+    "correctOption": "một viên kim cương trắng"
+  },
+  {
+    "id": "38",
+    "question": "Loại biểu đồ nào thể hiện thông tin về lịch trình dự án đã lên kế hoạch và thực tế?",
+    "options": ["Network diagram", "Gantt chart", "Tracking Gantt chart", "Milestone chart"],
+    "correctOption": "Tracking Gantt chart"
+  },
+  {
+    "id": "39",
+    "question": "___________ là một kỹ thuật phân tích dùng để ước lượng thời gian tổng thể lượng của dự án.",
+    "options": ["PERT", "Biểu đồ Gantt", "Phương pháp đường găng (Critical path method)", "Va chạm (Crashing)"],
+    "correctOption": "Phương pháp đường găng (Critical path method)"
+  },
+  {
+    "id": "40",
+    "question": "Phương pháp sơ đồ ưu tiên (PDM) cung cấp cho các nhà quản lý dự án kiến thức về",
+    "options": [
+      "Tất cả các cấp độ của cấu trúc phân chia công việc",
+      "Các hoạt động có thể liên quan đến chức năng tích hợp và phân bổ nguồn lực của dự án",
+      "Mối quan hệ giữa các công việc",
+      "Ngày hoàn thành dự án"
+    ],
+    "correctOption": "Mối quan hệ giữa các công việc"
+  },
+  {
+    "id": "41",
+    "question": "Các quy trình quản lý thời gian dự án bao gồm",
+    "options": [
+      "Xác định hoạt động → Kiểm soát lịch biểu → Sắp xếp thứ tự hoạt động → Phát triển lịch biểu → Ước tính thời gian hoạt động.",
+      "Xác định hoạt động → Sắp xếp thứ tự hoạt động → Phát triển lịch biểu → Ước tính thời gian hoạt động → Kiểm soát lịch biểu.",
+      "Xác định hoạt động → Sắp xếp thứ tự hoạt động → Ước tính thời gian hoạt động  → Phát triển lịch biểu → Kiểm soát lịch biểu."
+    ],
+    "correctOption": "Xác định hoạt động → Sắp xếp thứ tự hoạt động → Phát triển lịch biểu → Ước tính thời gian hoạt động → Kiểm soát lịch biểu."
+  },
+  {
+    "id": "42",
+    "question": "Một phụ thuộc yêu cầu thiết kế phải được hoàn thành trước khi có thể bắt đầu sản xuất là một ví dụ về",
+    "options": ["Phụ thuộc tùy chọn", "Phụ thuộc bên ngoài", "Phụ thuộc bắt buộc", "Phụ thuộc bên trong"],
+    "correctOption": "Phụ thuộc bắt buộc"
+  },
+  {
+    "id": "43",
+    "question": "Điều nào sau đây được minh họa tốt hơn bằng biểu đồ Gantt so với biểu đồ Mạng?",
+    "options": [
+      "Mối quan hệ logic giữa các công việc",
+      "Đường găng",
+      "Trình tự các hoạt động",
+      "Tiến độ hoặc trạng thái công việc"
+    ],
+    "correctOption": "Tiến độ hoặc trạng thái công việc"
+  },
+  {
+    "id": "44",
+    "question": "___________ là tài nguyên được hy sinh hay được tính trước để đạt được một mục tiêu rõ ràng hay để trao đổi cái gì đó.",
+    "options": ["Tiền bạc", "Trách nhiệm pháp lý", "Buôn bán", "Chi phí"],
+    "correctOption": "Chi phí"
+  },
+  {
+    "id": "45",
+    "question": "Mục tiêu chính của quản lý chi phí dự án là gì?",
+    "options": [
+      "đảm bảo cho dự án hoàn tất với chi phí ít nhất có thể",
+      "đảm bảo cho dự án hoàn tất trong ngân sách cho phép",
+      "cung cấp thông tin chi phí trung thực và chính xác về các dự án",
+      "để đảm bảo rằng tiền của một tổ chức được sử dụng một cách khôn ngoan"
+    ],
+    "correctOption": "đảm bảo cho dự án hoàn tất trong ngân sách cho phép"
+  },
+  {
+    "id": "46",
+    "question": "Bạn đang chuẩn bị ước tính chi phí cho một tòa nhà dựa trên vị trí, mục đích, số bộ vuông và các đặc điểm khác của nó. Bạn đang sử dụng kỹ thuật ước tính chi phí nào?",
+    "options": [
+      "Mô hình tham số",
+      "Ước lượng tương tự (Ước lượng từ trên xuống)",
+      "Ước lượng từ dưới lên",
+      "Ước lượng ba trường hợp"
+    ],
+    "correctOption": "Mô hình tham số"
+  },
+  {
+    "id": "47",
+    "question": "_________________ là phân bổ chi phí ước tính vào từng hạng mục công việc để thiết lập một baseline cho việc kiểm soát",
+    "options": [
+      "Ước lượng chi phí",
+      "Lập kế hoạch quản lý chi phí",
+      "Dự toán chi phí",
+      "Kiểm soát - điều chỉnh ngân sách"
+    ],
+    "correctOption": "Dự toán chi phí"
+  },
+  {
+    "id": "48",
+    "question": "__________________ là một kỹ thuật đo lường sự thực hiện dự án thông qua việc tích hợp dữ liệu phạm vi, thời gian và chi phí dự án.",
+    "options": [
+      "Kiểm soát - điều chỉnh ngân sách",
+      "Ước lượng chi phí",
+      "Lập ngân sách chi phí dự án",
+      "Quản lý chi phí thu được (EVM)"
+    ],
+    "correctOption": "Quản lý chi phí thu được (EVM)"
+  },
+  {
+    "id": "49",
+    "question": "Nếu chi phí thực tế (AC) cho một mặt hàng WBS là $1500 và giá trị kiếm được của nó (EV) là $2000, thì CV là bao nhiêu và nó thấp hơn hay vượt quá ngân sách?",
+    "options": [
+      "CV = $500, vượt quá ngân sách",
+      "CV = $500, dưới ngân sách",
+      "CV = - $500, vượt quá ngân sách",
+      "CV = - $500, dưới ngân sách"
+    ],
+    "correctOption": "CV = $500, dưới ngân sách"
+  },
+  {
+    "id": "50",
+    "question": "Nếu một dự án hoàn thành một nửa và chỉ số hiệu suất theo lịch trình (SPI) là 110% và chỉ số hiệu suất chi phí (CPI) là 95%, thì nó tiến triển như thế nào?",
+    "options": [
+      "vượt trước kế hoạch và dưới ngân sách",
+      "vượt trước kế hoạch và vượt quá ngân sách",
+      "chậm tiến độ và dưới ngân sách",
+      "chậm tiến độ và vượt quá ngân sách"
+    ],
+    "correctOption": "vượt trước kế hoạch và vượt quá ngân sách"
+  },
+  {
+    "id": "51",
+    "question": "Sự khác biệt giữa chi phí kế hoạch và thực tế của các công việc đã hoàn thành (Cost variance) được tính bằng biểu thức nào sau đây?",
+    "options": ["CV = BCWP – BCWS", "CV = BCWP – ACWP", "CV = SV / BCWS", "A và C"],
+    "correctOption": "CV = BCWP – ACWP"
+  },
+  {
+    "id": "52",
+    "question": "Lập kế hoạch quản lý chi phí có thể được mô tả tốt nhất bằng điều nào sau đây?",
+    "options": [
+      "Quá trình ước lượng gần đúng cho những tài nguyên cần thiết để hoàn thành dự án.",
+      "Quá trình tập hợp và dự đoán chi phí của một dự án trong vòng đời của nó.",
+      "Quá trình quyết định chính sách, quy trình, tài liệu được sử dụng cho việc thực thi và điều khiển chi phí.",
+      "Quá trình phân bổ chi phí ước tính vào từng hạng mục công việc để thiết lập một baseline cho việc kiểm soát."
+    ],
+    "correctOption": "Quá trình quyết định chính sách, quy trình, tài liệu được sử dụng cho việc thực thi và điều khiển chi phí."
+  },
+  {
+    "id": "53",
+    "question": "Chi phí nào sau đây là chi phí dự án trực tiếp?",
+    "options": [
+      "Chiếu sáng và sưởi ấm cho văn phòng công ty",
+      "Bảo hiểm bồi thường cho người lao động",
+      "Đặt đường ống cho một dự án thủy lợi",
+      "A và B"
+    ],
+    "correctOption": "Đặt đường ống cho một dự án thủy lợi"
+  },
+  {
+    "id": "54",
+    "question": "Công cụ nào sau đây là công cụ để xác định thời gian dài nhất mà dự án sẽ mất?",
+    "options": ["WBS", "Sơ đồ mạng", "Biểu đồ Gantt", "Tuyên bố dự án"],
+    "correctOption": "Sơ đồ mạng"
+  },
+  {
+    "id": "55",
+    "question": "Điều nào sau đây là đúng?",
+    "options": [
+      "Đường găng có thể thay đổi trong quá trình thực hiện dự án.",
+      "Chỉ có thể có một đường găng.",
+      "Sơ đồ mạng sẽ thay đổi mỗi khi ngày kết thúc thay đổi.",
+      "Một dự án không thể có số dư âm."
+    ],
+    "correctOption": "Đường găng có thể thay đổi trong quá trình thực hiện dự án."
+  },
+  {
+    "id": "56",
+    "question": "Nếu ước tính lạc quan cho một nhiệm vụ là 12 ngày, bi quan là 18 ngày, thì ước tính có khả năng xảy ra nhất là bao nhiêu?",
+    "options": ["15 ngày", "13 ngày", "16 ngày", "Không xác định được"],
+    "correctOption": "15 ngày"
+  },
+  {
+    "id": "57",
+    "question": "_____________ là các sự kiện xảy ra có tính ngẫu nhiên tác động bất lợi cho dự án và sản phẩm.",
+    "options": ["Phân tích rủi ro", "Chấp nhận rủi ro", "Quản lý rủi ro", "Rủi ro"],
+    "correctOption": "Rủi ro"
+  },
+  {
+    "id": "58",
+    "question": "Quy trình quản lý rủi ro nào liên quan đến việc ưu tiên các rủi ro dựa trên xác suất và tác động xuất hiện của chúng?",
+    "options": [
+      "Lập kế hoạch quản lý rủi ro",
+      "Xác định rủi ro",
+      "Thực hiện phân tích rủi ro định tính",
+      "Thực hiện phân tích rủi ro định lượng"
+    ],
+    "correctOption": "Thực hiện phân tích rủi ro định tính"
+  },
+  {
+    "id": "59",
+    "question": "Công cụ xác định rủi ro nào liên quan đến việc đạt được sự đồng thuận giữa một nhóm chuyên gia bằng cách sử dụng lặp lại nhiều lời bảng câu hỏi?",
+    "options": ["Phân tích nguyên nhân hậu quả", "Động não tập thể (Brainstorming)", "Phỏng vấn", "Kỹ thuật Delphi"],
+    "correctOption": "Kỹ thuật Delphi"
+  },
+  {
+    "id": "60",
+    "question": "______ là một tài liệu chứa các kết quả của các quá trình quản lý rủi ro khác nhau, thường được hiển thị dưới dạng bảng hoặc bảng tính.",
+    "options": ["Kế hoạch quản lý", "Bảng đăng kí rủi ro", "WBS", "Bảng ma trận xác suất / tác động"],
+    "correctOption": "Bảng đăng kí rủi ro"
+  },
+  {
+    "id": "61",
+    "question": "Giả sử có 30% khả năng bạn sẽ mất $10000 và 70% khả năng bạn sẽ kiếm được $100000 cho một dự án cụ thể. Giá trị tiền tệ ước tính của dự án là bao nhiêu?",
+    "options": ["- $30000", "$70000", "$67000", "- $67000"],
+    "correctOption": "$67000"
+  },
+  {
+    "id": "62",
+    "question": "_____________ là một công cụ phân tích rủi ro định lượng sử dụng mô hình của hệ thống để phân tích hành vi hoặc hiệu suất dự kiến của hệ thống.",
+    "options": ["Kỹ thuật Mô phỏng", "Phân tích độ nhạy", "Phân tích Monte Carlo", "EMV"],
+    "correctOption": "Kỹ thuật Mô phỏng"
+  },
+  {
+    "id": "63",
+    "question": "Nhóm dự án của bạn đã quyết định không sử dụng bản phát hành sắp tới của phần mềm vì nó có thể khiến lịch trình của bạn bị trễ. Bạn đang sử dụng chiến lược phản ứng rủi ro tiêu cực nào?",
+    "options": ["Tránh rủi ro", "Chấp thuận rủi ro", "Chuyển rủi ro đi nơi khác", "Làm giảm nhẹ rủi ro"],
+    "correctOption": "Tránh rủi ro"
+  },
+  {
+    "id": "64",
+    "question": "Cây quyết định được sử dụng tốt nhất cho việc",
+    "options": [
+      "Xác định sự tương tác của số tiền đang bị đe dọa và giá trị tiền tệ mong đợi.",
+      "Xem mối liên hệ giữa các xác suất với các sự kiện rủi ro.",
+      "Lựa chọn hành động tốt nhất trong các trường hợp cho kết quả không chắc chắn trong tương lai.",
+      "Xác định độ lệch chuẩn của sự kiện rủi ro."
+    ],
+    "correctOption": "Lựa chọn hành động tốt nhất trong các trường hợp cho kết quả không chắc chắn trong tương lai."
+  },
+  {
+    "id": "65",
+    "question": "Điều nào sau đây là đặc điểm chính của Kỹ thuật Delphi",
+    "options": [
+      "Ngoại suy từ các ghi chép lịch sử",
+      "Ý kiến chuyên gia",
+      "Hệ thống phân tích",
+      "Cách tiếp cận từ dưới lên"
+    ],
+    "correctOption": "Ý kiến chuyên gia"
+  },
+  {
+    "id": "66",
+    "question": "___________ là một sự tổng hợp tất cả các đặc tính của một sản phẩm mà có khả năng thỏa mãn mọi yêu cầu về sản phẩm đó.",
+    "options": ["Chất lượng", "Sự phù hợp với yêu cầu", "Chi phí", "Độ tin cậy"],
+    "correctOption": "Chất lượng"
+  },
+  {
+    "id": "67",
+    "question": "Mục đích của quản lý chất lượng dự án là gì?",
+    "options": [
+      "để sản xuất các sản phẩm và dịch vụ chất lượng cao nhất có thể",
+      "để đảm bảo rằng các tiêu chuẩn chất lượng thích hợp được đáp ứng",
+      "để đảm bảo rằng dự án thỏa mãn mọi yêu cầu đề ra",
+      "Tất cả những đáp án trên"
+    ],
+    "correctOption": "để đảm bảo rằng dự án thỏa mãn mọi yêu cầu đề ra"
+  },
+  {
+    "id": "68",
+    "question": "Bạn có thể sử dụng công cụ nào để xem liệu có mối quan hệ giữa hai biến không?",
+    "options": [
+      "một sơ đồ nguyên nhân và kết quả (xương cá)",
+      "một biểu đồ kiểm soát (Control Diagram)",
+      "một biểu đồ Pareto",
+      "một biểu đồ phân tán (Scatter diagram)"
+    ],
+    "correctOption": "một biểu đồ phân tán (Scatter diagram)"
+  },
+  {
+    "id": "69",
+    "question": "Bạn có thể sử dụng công cụ nào để xác định một quy trình nằm trong tầm kiểm soát hay ngoài tầm kiểm soát?",
+    "options": [
+      "một sơ đồ nguyên nhân và kết quả (xương cá)",
+      "một biểu đồ kiểm soát (Control Diagram)",
+      "một biểu đồ Pareto",
+      "một biểu đồ phân tán (Scatter diagram)"
+    ],
+    "correctOption": "một biểu đồ kiểm soát (Control Diagram)"
+  },
+  {
+    "id": "70",
+    "question": "Thứ tự ưu tiên để thực hiện kiểm thử các dự án công nghệ thông tin là gì?",
+    "options": [
+      "thử nghiệm đơn vị, thử nghiệm tích hợp, thử nghiệm hệ thống, thử nghiệm chấp nhận người dùng",
+      "thử nghiệm đơn vị, thử nghiệm hệ thống, thử nghiệm tích hợp, thử nghiệm chấp nhận người dùng",
+      "kiểm thử đơn vị, kiểm thử hệ thống, kiểm thử chấp nhận người dùng, kiểm thử tích hợp",
+      "thử nghiệm đơn vị, thử nghiệm tích hợp, thử nghiệm chấp nhận người dùng, thử nghiệm hệ thống"
+    ],
+    "correctOption": "thử nghiệm đơn vị, thử nghiệm tích hợp, thử nghiệm hệ thống, thử nghiệm chấp nhận người dùng"
+  },
+  {
+    "id": "71",
+    "question": "Ai là người được biết đến với công việc của mình về quản lý chất lượng ở Nhật Bản và phát triển 14 nguyên tắc quản lý chất lượng?",
+    "options": ["Juran", "Deming", "Crosby", "Ishikawa"],
+    "correctOption": "Deming"
+  },
+  {
+    "id": "72",
+    "question": "Điều này sau đây đúng?",
+    "options": [
+      "Six Sigma là một tiêu chuẩn về quản lý chất lượng",
+      "Six Sigma là một mô hình về quản lý chất lượng",
+      "ISO 9001 là một bộ tiêu chuẩn về quản lý chất lượng",
+      "ISO 9001 là một mô hình về quản lý chất lượng"
+    ],
+    "correctOption": "ISO 9001 là một bộ tiêu chuẩn về quản lý chất lượng"
+  },
+  {
+    "id": "73",
+    "question": "Biểu đồ nào dùng để xác định, khoanh vùng nguyên nhân chính gây ra lỗi hệ thống?",
+    "options": ["Biểu đồ nguyên nhân kết quả", "Biểu đồ tiến trình", "Biểu đồ Pareto", "Biểu đồ tần suất"],
+    "correctOption": "Biểu đồ Pareto"
+  },
+  {
+    "id": "74",
+    "question": "Biểu đồ tiến trình (Flowcharts) dùng để làm gì?",
+    "options": [
+      "Tìm ra tất cả nguyên nhân của một vấn đề nào đó trong hệ thống",
+      "Xác định mối quan hệ tương quan giữa hai đại lượng trong hệ thống",
+      "Theo dõi và kiểm soát một tham số mang tính chất quyết định của hệ thống",
+      "Minh họa các bước thực hiện theo đúng chuẩn"
+    ],
+    "correctOption": "Minh họa các bước thực hiện theo đúng chuẩn"
+  },
+  {
+    "id": "75",
+    "question": "Quyết định chấp nhận (Acceptance decisions), làm lại (rework), sửa đổi quy trình (process adjustments) là kết quả của quy trình nào trong quản lý chất lượng?",
+    "options": ["Lập kế hoạch", "Thực hiện đảm bảo chất lượng", "Điều chỉnh chất lượng", "Kiểm soát chất lượng"],
+    "correctOption": "Kiểm soát chất lượng"
+  },
+  {
+    "id": "76",
+    "question": "Điều nào sau đây đúng?",
+    "options": [
+      "Chất lượng được xem ngang hàng với phạm vi dự án, thời gian và chi phí",
+      "Quản lý chất lượng gồm 4 quy trình",
+      "Lợi ích của quy trình kiểm soát chất lượng là cung cấp hưỡng dẫn và định hướng cho việc chất lượng sẽ được quản lý và công nhận như thế nào",
+      "Quản lý chất lượng thuộc lĩnh vực kiến thức hỗ trợ"
+    ],
+    "correctOption": "Chất lượng được xem ngang hàng với phạm vi dự án, thời gian và chi phí"
+  },
+  {
+    "id": "77",
+    "question": "Bạn có thể sử dụng công cụ nào để giúp quản lý các bên liên quan theo phạm vi xếp hạng, thời gian và mục tiêu chi phí theo thứ tự tầm quan trọng và cung cấp hướng dẫn về việc cân bằng các ràng buộc này?",
+    "options": ["ma trận ràng buộc ba", "ma trận kỳ vọng", "nhật ký phát hành", "nhật ký ưu tiên"],
+    "correctOption": "ma trận kỳ vọng"
+  },
+  {
+    "id": "78",
+    "question": "Bạn có hai bên liên quan đến dự án không hề hòa hợp với nhau. Bạn biết cả hai đều thích đi du lịch, vì vậy bạn thảo luận về các điểm đến du lịch tuyệt vời khi cả hai ở trong phòng cùng nhau để đánh lạc hướng họ khỏi tranh cãi với nhau. Chế độ xử lý xung đột là gì bạn đang sử dụng?",
+    "options": ["đối đầu", "thỏa hiệp", "làm mịn", "rút tiền"],
+    "correctOption": "làm mịn"
+  },
+  {
+    "id": "79",
+    "question": "Nội dung nào sau đây không thuộc quản lý nguồn nhân lực của dự án?",
+    "options": ["Ước tính nguồn lực", "Thu nhận nhân viên", "Phát triển nhóm dự án", "Quản lý nhóm dự án"],
+    "correctOption": "Ước tính nguồn lực"
+  },
+  {
+    "id": "80",
+    "question": "Theo lý thuyết nhu cầu có được của McClelland, những người mong muốn quan hệ hài hòa với những người khác và cần cảm thấy được chấp nhận có nhu cầu __________ cao.",
+    "options": ["xã hội", "thành tựu", "sự liên kết", "bên ngoài"],
+    "correctOption": "sự liên kết"
+  },
+  {
+    "id": "81",
+    "question": "Một ___________ ánh xạ công việc của một dự án như được mô tả trong WBS cho những người chịu trách nhiệm thực hiện công việc.",
+    "options": [
+      "sơ đồ tổ chức dự án",
+      "xác định công việc và quy trình phân công",
+      "biểu đồ tài nguyên",
+      "ma trận phân công trách nhiệm"
+    ],
+    "correctOption": "ma trận phân công trách nhiệm"
+  },
+  {
+    "id": "82",
+    "question": "Kế hoạch quản lý nhân sự thường bao gồm ___________, là biểu đồ cột thể hiện số lượng tài nguyên được giao cho dự án theo thời gian.",
+    "options": ["đồ thị tài nguyên", "đồ thị tài nguyên quá tải", "biểu đồ tài nguyên", "mốc thời gian"],
+    "correctOption": "biểu đồ tài nguyên"
+  },
+  {
+    "id": "83",
+    "question": "Năm giai đoạn trong mô hình phát triển nhóm của Tuckman, theo trình tự thời gian là gì?",
+    "options": [
+      "hình thành, xung đột, ổn định, hoạt động và tan rã",
+      "xung đột, hình thành, ổn định, hoạt động và tan rã",
+      "ổn định, hình thành, xung đột, hoạt động và tan rã",
+      "hình thành, xung đột, hoạt động, ổn định và tan rã"
+    ],
+    "correctOption": "hình thành, xung đột, ổn định, hoạt động và tan rã"
+  },
+  {
+    "id": "84",
+    "question": "Công cụ nào sau đây không phải là công cụ hoặc kỹ thuật để quản lý nhóm dự án?",
+    "options": ["Quan sát và trò chuyện", "Đánh giá hiệu suất dự án", "Quản lý xung đột", "Phong cách xã hội"],
+    "correctOption": "Phong cách xã hội"
+  },
+  {
+    "id": "85",
+    "question": "Để thúc đẩy thành công một nhóm trong môi trường công nghệ cao - nhu cầu cao ngày nay, PM nên sử dụng lý thuyết động lực nào để duy trì một nhóm vui vẻ, hiệu quả?",
+    "options": [
+      "Thuyết động cơ và Thuyết X",
+      "Thuyết Y và lý thuyết Thứ bậc nhu cầu của A.Maslow",
+      "Thuyết Y, học thuyết động cơ – duy trì của F.Herzberg",
+      "Học thuyết động cơ – duy trì của F.Herzberg"
+    ],
+    "correctOption": "Thuyết Y, học thuyết động cơ – duy trì của F.Herzberg"
+  },
+  {
+    "id": "86",
+    "question": "Theo lý thuyết duy trì – thúc đẩy của F.Herzberg, yếu tố nào sau đây là yếu tố thúc đẩy?",
+    "options": ["Môi trường làm việc", "Quan hệ đồng nghiệp", "Tiền lương", "Sự công nhận thành tích"],
+    "correctOption": "Sự công nhận thành tích"
+  },
+  {
+    "id": "87",
+    "question": "Kỹ thuật giải quyết xung đột nào cung cấp cho người quản lý dự án lựa chọn tốt nhất?",
+    "options": ["Làm mịn", "Đối đầu", "Ép buộc", "Cộng tác"],
+    "correctOption": "Cộng tác"
+  },
+  {
+    "id": "88",
+    "question": "Quy trình nào không thuộc quản lý nhân lực?",
+    "options": ["Phát triển nhóm", "Ước lượng nguồn lực", "Thu nhận nhân viên", "Quản lý nhóm dự án"],
+    "correctOption": "Ước lượng nguồn lực"
+  },
+  {
+    "id": "89",
+    "question": "Điều gì khiến con người làm việc với sự thích thú",
+    "options": ["Động lực xã hội", "Động lực bên ngoài", "Động lực bên trong", "Tự thể hiện"],
+    "correctOption": "Động lực bên trong"
+  },
+  {
+    "id": "90",
+    "question": "Điều gì đúng về học thuyết Y?",
+    "options": [
+      "Con người được thúc đẩy bởi tiền, quyền lực",
+      "Con người sẽ thực hiện tốt nhất công việc khi được tạo động lực và kỳ vọng thích hợp",
+      "Đạt được năng lực cao hơn là động lực cho con người",
+      "Con người chỉ làm tốt khi bị kiểm soát"
+    ],
+    "correctOption": "Con người sẽ thực hiện tốt nhất công việc khi được tạo động lực và kỳ vọng thích hợp"
+  },
+  {
+    "id": "91",
+    "question": "Nhiều chuyên gia cho rằng điều gì là mối đe dọa lớn nhất đối với sự thành công của bất kỳ dự án nào?",
+    "options": ["thiếu kinh phí hợp lý", "thất bại về truyền thông", "kỹ năng nghe kém", "nhân sự không đủ"],
+    "correctOption": "thất bại về truyền thông"
+  },
+  {
+    "id": "92",
+    "question": "Kỹ năng giao tiếp nào là quan trọng nhất đối với các chuyên gia công nghệ thông tin để thăng tiến trong nghề nghiệp?",
+    "options": ["viết", "nghe", "nói", "sử dụng công nghệ truyền thông"],
+    "correctOption": "nói"
+  },
+  {
+    "id": "93",
+    "question": "Điều nào sau đây không phải là một quy trình trong quản lý truyền thông dự án?",
+    "options": [
+      "Lập kế hoạch quản lý truyền thông",
+      "Quản lý truyền thông",
+      "Kiểm soát truyền thông",
+      "Quản lý các bên liên quan"
+    ],
+    "correctOption": "Quản lý các bên liên quan"
+  },
+  {
+    "id": "94",
+    "question": "Nếu bạn thêm ba người nữa vào một nhóm dự án gồm năm người, bạn sẽ thêm bao nhiêu kênh liên lạc nữa?",
+    "options": ["2", "12", "15", "18"],
+    "correctOption": "18"
+  },
+  {
+    "id": "95",
+    "question": "Báo cáo ________________ mô tả tình trạng của dự án tại một thời điểm cụ thể về phạm vi, thời gian, chi phí.",
+    "options": ["trạng thái", "hiệu suất", "dự báo", "giá trị thu được"],
+    "correctOption": "trạng thái"
+  },
+  {
+    "id": "96",
+    "question": "Điều nào sau đây không phải là phương châm giúp cải thiện thời gian họp?",
+    "options": [
+      "Xác định xem có thể tránh được một cuộc họp hay không.",
+      "Mời thêm những người hỗ trợ dự án của bạn để dự án hoạt động trơn tru hơn.",
+      "Xác định mục đích và kết quả dự kiến của cuộc họp.",
+      "Xây dựng các mối quan hệ."
+    ],
+    "correctOption": "Mời thêm những người hỗ trợ dự án của bạn để dự án hoạt động trơn tru hơn."
+  },
+  {
+    "id": "97",
+    "question": "Báo cáo ________________ là một tuyên bố phản ánh ghi lại những điều quan trọng mà mọi người đã học được từ quá trình làm việc trong dự án.",
+    "options": ["dự án cuối cùng", "bài học kinh nghiệm", "kho lưu trữ dự án", "tiến triển"],
+    "correctOption": "bài học kinh nghiệm"
+  },
+  {
+    "id": "98",
+    "question": "Quy trình nào sau đây không phải là một phần của quản lý tích hợp dự án?",
+    "options": [
+      "Phát triển quy trình nghiệp vụ",
+      "Phát triển project charter",
+      "Xây dựng kế hoạch quản lý dự án",
+      "Đóng dự án hoặc giai đoạn"
+    ],
+    "correctOption": "Phát triển quy trình nghiệp vụ"
+  },
+  {
+    "id": "99",
+    "question": "Ai chịu trách nhiệm chính trên thành công của sản phẩm, dự án trong Scrum?",
+    "options": ["Developers", "Product Owner", "Product Owner and Scrum Master", "Scrum Master"],
+    "correctOption": "Product Owner and Scrum Master"
+  },
+  {
+    "id": "100",
+    "question": "Scrum được áp dụng ở đâu?",
+    "options": ["Tất cả các dự án ở các lĩnh vực khác nhau", "Chỉ áp dụng bên lĩnh vực phần mềm"],
+    "correctOption": "Tất cả các dự án ở các lĩnh vực khác nhau"
+  },
+  {
+    "id": "101",
+    "question": "Các phương thức quản lý truyền thông bao gồm",
+    "options": [
+      "Clone, Push, Pull",
+      "Clone, Interactive , Push",
+      "Interactive, Clone, Pull",
+      "Interactive, Push, Pull"
+    ],
+    "correctOption": "Interactive, Push, Pull"
+  },
+  {
+    "id": "102",
+    "question": "Mục đích cuộc họp cuộc họp Sprint Retrospective là gì?",
+    "options": [
+      "Để Product Owner khen tặng, phê bình thành viên trong nhóm",
+      "Để Scrum Master khen tặng, phê bình thành viên trong nhóm",
+      "Để các thành viên nhóm Scrum tự đánh giá bản thân và rút kinh nghiệm",
+      "Để nhóm Scrum tìm kiếm cải tiến cho Sprint kế tiếp"
+    ],
+    "correctOption": "Để nhóm Scrum tìm kiếm cải tiến cho Sprint kế tiếp"
+  },
+  {
+    "id": "103",
+    "question": "Thứ tự đúng của các sự kiện Scrum diễn ra trong một Sprint",
+    "options": ["Sprint Planning → Sprint Retrospective  → Sprint Review → Daily Scrum"],
+    "correctOption": "Sprint Planning → Daily Scrum  → Sprint Review → Sprint Retrospective"
+  },
+  {
+    "id": "104",
+    "question": "Scrum giúp chuyển giao giá trị sớm cho khách hàng. Hai lựa chọn nào sau đây giúp Scrum đạt được điều này? ",
+    "options": [
+      "Làm việc theo các Sprint tối đa không quá 1 tháng, Xây dựng các nhóm liên chức năng",
+      "Loại bỏ bước kiểm thử, Có chuyên gia ở mỗi nhóm Scrum"
+    ],
+    "correctOption": "Làm việc theo các Sprint tối đa không quá 1 tháng, Xây dựng các nhóm liên chức năng"
+  },
+  {
+    "id": "105",
+    "question": "Hai điều nào dưới đây có thể được xem là kết quả sau mỗi Sprint?",
+    "options": [
+      "Các tính năng mới sẵn sàng cho kiểm thử tích hợp, Bản kế hoạch cho các Sprint sắp tới",
+      "Vài tính năng hoàn thiện đã được tích hợp vào phần sản phẩm có sẵn, Phần sản phẩm tăng trưởng thêm có thể phát hành đến khách hàng"
+    ],
+    "correctOption": "Vài tính năng hoàn thiện đã được tích hợp vào phần sản phẩm có sẵn, Phần sản phẩm tăng trưởng thêm có thể phát hành đến khách hàng"
+  },
+  {
+    "id": "106",
+    "question": "Ai tham gia cuộc họp Sprint Planning?",
+    "options": ["Scrum Team", "Product Owner và Scrum Master", "Product Owner và Developers", "Chỉ có Developers"],
+    "correctOption": "Scrum Team"
+  },
+  {
+    "id": "107",
+    "question": "Câu chuyện người dùng (User Story) là gì?",
+    "options": [
+      "Nhóm Scrum phải sử dụng User story để làm hài lòng khách hàng, Là bản mô tả đầy đủ về hành vi và thói quen sử dụng sản phẩm, dịch vụ của khách hàng",
+      "Là một công cụ để mô tả tính năng sản phẩm mà khách hàng cần, Là bản mô tả ngắn gọn, đơn giản về một tính năng được kể từ quan điểm của người mong muốn tính năng mới."
+    ],
+    "correctOption": "Là một công cụ để mô tả tính năng sản phẩm mà khách hàng cần, Là bản mô tả ngắn gọn, đơn giản về một tính năng được kể từ quan điểm của người mong muốn tính năng mới."
+  },
+  {
+    "id": "108",
+    "question": "Tìm từ còn thiếu trong câu sau của Tuyên ngôn Agile: “Phản hồi với …… hơn là bám sát kế hoạch”",
+    "options": ["người dùng", "thay đổi", "môi trường", "khách hàng"],
+    "correctOption": "thay đổi"
+  },
+  {
+    "id": "109",
+    "question": "Tìm các từ còn thiếu trong câu sau của Tuyên ngôn Agile: Cá nhân và …… hơn là quy trình và …… Chọn một trong các đáp án",
+    "options": ["tương tác, công cụ", "chuyên gia, dự án", "nhóm, công cụ", "tương tác, hợp đồng"],
+    "correctOption": "tương tác, công cụ"
+  },
+  {
+    "id": "110",
+    "question": "Đặc điểm của các phương pháp Agile là dựa trên một bảng kế hoạch đầy đủ, chi tiết từ đầu. B. Sai A. Đúng Hint: Các phương pháp Agile khuyến khích lập kế hoạch thích ứng, phát triển tăng dần.",
+    "options": ["Sai", "Đúng"],
+    "correctOption": "Sai"
+  },
+  {
+    "id": "111",
+    "question": "Phát biểu nào sau đây về Agile và Scrum là đúng?",
+    "options": [
+      "Agile là một phương pháp Scrum",
+      "Scrum là một phương pháp Agile",
+      "Agile là một bộ phận của Scrum",
+      "Agile và Scrum là một"
+    ],
+    "correctOption": "Scrum là một phương pháp Agile"
+  },
+  {
+    "id": "112",
+    "question": "Phát biểu nào sau đây SAI về mục đích của quản lý dự án?",
+    "options": [
+      "Giảm chi phí phát triển dự án",
+      "Khách hàng hài lòng",
+      "Hoàn thành dự án trong thời gian qui định",
+      "Đáp ứng đầy đủ mục tiêu đề ra"
+    ],
+    "correctOption": "Giảm chi phí phát triển dự án"
+  },
+  {
+    "id": "113",
+    "question": "Trong Scrum, Sprint bao gồm các meeting sau:",
+    "options": [
+      "Planning Meeting, Daily Meeting, Retrospective Meeting.",
+      "Planning Meeting, Daily Meeting, Review Meeting, Retrospective Meeting",
+      "Daily Meeting, Review Meeting, Retrospective Meeting",
+      "Planning Meeting, Daily Meeting, Review Meeting"
+    ],
+    "correctOption": "Planning Meeting, Daily Meeting, Review Meeting, Retrospective Meeting"
+  },
+  {
+    "id": "114",
+    "question": "Nhu cầu nào sau đây KHÔNG được đề cập đến trong lý thuyết nhu cầu của A. Maslow?",
+    "options": ["An toàn", "Tự thể hiện", "Tôn trọng", "Quyền lực"],
+    "correctOption": "Quyền lực"
+  },
+  {
+    "id": "115",
+    "question": "Mục đích cuộc họp Daily Scrum là gì?",
+    "options": [
+      "Để Developers tự chia sẻ với nhau tiến độ công việc và khó khăn nếu có",
+      "Để Scrum Master giao việc cho các Developers",
+      "Để Developers báo cáo công việc cho Scrum Master",
+      "Để Developers báo cáo công việc cho Product Owner"
+    ],
+    "correctOption": "Để Developers tự chia sẻ với nhau tiến độ công việc và khó khăn nếu có"
+  },
+  {
+    "id": "116",
+    "question": "Nhóm Scrum có các vai trò nào sau đây?",
+    "options": [
+      "Product Owner, Tester, Business Analyst",
+      "Developers, Product Owner, Project Manager",
+      "Scrum Master, Product Owner, Tester",
+      "Scrum Master, Developers, Product Owner"
+    ],
+    "correctOption": "Scrum Master, Developers, Product Owner"
+  },
+  {
+    "id": "117",
+    "question": "Sự kiện lập kế hoạch cho 1 sprint (Sprint Planning) trong Scrum nhằm mục đích gì?",
+    "options": [
+      "Để Product Owner đưa ra thời hạn hoàn thành sản phẩm",
+      "Để cả nhóm xác định các hạng mục, công việc cần thực hiện cho Sprint",
+      "Để Product Owner giao việc cho Developers",
+      "Để Scrum Master giao việc cho Developers"
+    ],
+    "correctOption": "Để cả nhóm xác định các hạng mục, công việc cần thực hiện cho Sprint"
+  },
+  {
+    "id": "118",
+    "question": "Ai chịu trách nhiệm quản lý Sprint Backlog?",
+    "options": ["Scrum Master", "Product Owner", "Scrum Team", "Developers"],
+    "correctOption": "Developers"
+  },
+  {
+    "id": "119",
+    "question": "Product Owner có các trách nhiệm nào sau đây?",
+    "options": [
+      "Phân công công việc cho Developers",
+      "Theo dõi công việc của Developers",
+      "Hỗ trợ kỹ thuật cho Developers",
+      "Quản lý Product Backlog"
+    ],
+    "correctOption": "Quản lý Product Backlog"
+  },
+  {
+    "id": "120",
+    "question": "Sprint Backlog có đặc điểm nào sau đây?",
+    "options": [
+      "Được quản lý bởi Scrum Master",
+      "Toàn bộ Developers cùng chịu trách nhiệm trên Sprint Backlog",
+      "Không được thay đổi trong suốt Sprint",
+      "Cuối Sprint, các công việc trong Sprint Backlog phải được hoàn tất"
+    ],
+    "correctOption": "Toàn bộ Developers cùng chịu trách nhiệm trên Sprint Backlog"
+  },
+  {
+    "id": "121",
+    "question": "Ý nghĩa nhóm liên chức năng theo định nghĩa Scrum là gì?",
+    "options": [
+      "Mỗi thành viên trong nhóm có đủ các kỹ năng như code, test, design",
+      "Nhóm phát triển sản phẩm theo tính năng",
+      "Nhóm làm nhiều tính năng khác nhau tại một thời điểm",
+      "Nhóm gồm các thành viên với các kỹ năng bổ sung để hoàn thành mọi công việc trong nhóm"
+    ],
+    "correctOption": "Nhóm gồm các thành viên với các kỹ năng bổ sung để hoàn thành mọi công việc trong nhóm"
+  },
+  {
+    "id": "122",
+    "question": "Product Backlog trong Scrum có đặc điểm nào sau đây? ",
+    "options": [
+      "Được thiết lập lúc bắt đầu dự án và hạn chế thay đổi, Chỉ chứa các yêu cầu từ khách hàng",
+      "Được cập nhật thường xuyên, Được quản lý bởi Product Owner"
+    ],
+    "correctOption": "Được cập nhật thường xuyên, Được quản lý bởi Product Owner"
+  },
+  {
+    "id": "123",
+    "question": "Các công việc của Scrum Developers trong một Sprint được quản lý ở đâu?",
+    "options": [
+      "Product Backlog",
+      "Mỗi developer có một bảng công việc riêng",
+      "Sprint Backlog",
+      "Trong thư mục quản lý công việc của Scrum Master"
+    ],
+    "correctOption": "Sprint Backlog"
+  },
+  {
+    "id": "124",
+    "question": "Vai trò nào của Scrum Master sau đây là sai?",
+    "options": [
+      "Giúp nhóm tự tổ chức các công việc trong Sprint",
+      "Phân công công việc cho Developers",
+      "Hỗ trợ tháo gỡ khó khăn, trở ngại cho nhóm",
+      "Bảo vệ nhóm, giúp nhóm tập trung làm việc đạt hiệu suất cao"
+    ],
+    "correctOption": "Phân công công việc cho Developers"
+  },
+  {
+    "id": "125",
+    "question": "Time-box cho cuộc họp Daily Scrum là bao nhiêu?",
+    "options": [
+      "15 phút",
+      "30 phút",
+      "Không quy định, tùy từng nhóm",
+      "15 phút và có thể lâu hơn nếu nhóm đông thành viên"
+    ],
+    "correctOption": "15 phút"
+  },
+  {
+    "id": "126",
+    "question": "Mục đích cuộc họp Sprint Review là gì?",
+    "options": [
+      "Để Product Owner đánh giá, nhận xét kết quả Sprint",
+      "Để đánh giá hiệu suất làm việc của nhóm Scrum",
+      "Để nghiệm thu kết quả Sprint, cập nhật thay đổi từ khách hàng để điều chỉnh Product Backlog",
+      "Để Scrum Master đánh giá, nhận xét kết quả Sprint"
+    ],
+    "correctOption": "Để nghiệm thu kết quả Sprint, cập nhật thay đổi từ khách hàng để điều chỉnh Product Backlog"
+  },
+  {
+    "id": "127",
+    "question": "Developers tự tổ chức các công việc trong Sprint. Hai lựa chọn nào sau đây thể hiện tính tự tổ chức của Developers?",
+    "options": [
+      "Tự phân công công việc",
+      "Quản lý Product Backlog",
+      "Ước tính khối lượng công việc các hạng mục trong Product Backlog",
+      "Báo cáo tiến độ cho Scrum Master"
+    ],
+    "correctOption": "Ước tính khối lượng công việc các hạng mục trong Product Backlog"
+  },
+  {
+    "id": "128",
+    "question": "Việc áp dụng Scrum mang lại lợi ích chính nào sau đây?",
+    "options": [
+      "Giảm tải áp lực công việc vì làm việc ít hơn",
+      "Giảm chi phí vì không còn vai trò Project Manager",
+      "Chuyển giao giá trị sớm cho khách hàng, đáp ứng tốt hơn với các thay đổi",
+      "Làm việc thoải mái hơn vì không ai quản lý"
+    ],
+    "correctOption": "Chuyển giao giá trị sớm cho khách hàng, đáp ứng tốt hơn với các thay đổi"
+  },
+  {
+    "id": "129",
+    "question": "Thời gian của một Sprint được quy định thế nào?",
+    "options": [
+      "Dài không quá 2 tháng",
+      "Dài không quá 1 tháng",
+      "Kéo dài 1-2 tuần",
+      "Không cố định, có thể thay đổi tùy theo dự án"
+    ],
+    "correctOption": "Dài không quá 1 tháng"
+  },
+  {
+    "id": "130",
+    "question": "Sprint có thể bị kết thúc trước khi timeboxed kết thúc không?",
+    "options": ["Không.", "Có."],
+    "correctOption": "Có."
+  },
+  {
+    "id": "131",
+    "question": "Ai có quyền kết thúc sớm một Sprint?",
+    "options": [
+      "Scrum Master.",
+      "Product Owner.",
+      "Developers.",
+      "Bất kì thành viên nào chịu trách nhiệm thực hiện Sprint đó."
+    ],
+    "correctOption": "Product Owner."
+  },
+  {
+    "id": "132",
+    "question": "Ba trụ cột của Scrum là gì?",
+    "options": [
+      "Minh bạch, Thanh tra, Thích nghi",
+      "Minh bạch, Chuyên nghiệp, Trình độ cao",
+      "Minh bạch, Thanh tra, Linh hoạt",
+      "Minh bạch, Vui vẻ, Tôn trọng"
+    ],
+    "correctOption": "Minh bạch, Thanh tra, Thích nghi"
+  },
+  {
+    "id": "133",
+    "question": "Tìm từ còn thiếu trong câu sau của Tuyên ngôn Agile: “Phản hồi với …… hơn là bám sát kế hoạch”",
+    "options": ["người dùng", "thay đổi", "môi trường", "khách hàng"],
+    "correctOption": "thay đổi"
+  },
+  {
+    "id": "134",
+    "question": "Tìm các từ còn thiếu trong câu sau của Tuyên ngôn Agile: Cá nhân và …… hơn là quy trình và …… Chọn một trong các đáp án",
+    "options": ["tương tác, công cụ", "chuyên gia, dự án", "nhóm, công cụ", "tương tác, hợp đồng"],
+    "correctOption": "tương tác, công cụ"
+  },
+  {
+    "id": "135",
+    "question": "Đặc điểm của các phương pháp Agile là dựa trên một bảng kế hoạch đầy đủ, chi tiết từ đầu.",
+    "options": ["Sai", "Đúng"],
+    "correctOption": "Sai"
+  },
+  {
+    "id": "136",
+    "question": "Chọn phát biểu đúng với Development Team",
+    "options": [
+      "Nhóm chuyên rà soát những hạn chế hoặc điểm cần khắc phục",
+      "Là nhóm tự tổ chức",
+      "Thành viên trong nhóm có thể cùng làm việc cho nhiều dự án khác nhau trong cùng một thời điểm",
+      "Tất cả đáp án đều sai"
+    ],
+    "correctOption": "Là nhóm tự tổ chức"
+  },
+  {
+    "id": "137",
+    "question": "Kỹ thuật EVM (Earned Value Management) được dùng để",
+    "options": [
+      "Ước lượng tiến triển trong tương lai về thời gian hoàn thành dự án và ngân sách sử dụng khi kết thúc dự án",
+      "Tất cả đáp án đều đúng",
+      "Báo cáo tiến độ dự án và hiện trạng ngân sách đã sử dụng",
+      "Đo lường sự thực hiện dự án so với kế hoạch đã đề ra"
+    ],
+    "correctOption": "Tất cả đáp án đều đúng"
+  },
+  {
+    "id": "138",
+    "question": "Một hoạt động có ước lượng thời gian hoàn thành trung bình là 5 ngày, ước lượng lạc quan là 4 ngày, ước lượng bi quan là 12 ngày. Sử dụng phương pháp PERT để ước lượng thời gian hoàn thành cho hoạt động này",
+    "options": ["5 ngày", "8 ngày", "7 ngày", "6 ngày"],
+    "correctOption": "6 ngày"
+  },
+  {
+    "id": "139",
+    "question": "Kỹ thuật nào sau đây dùng để phân tích rủi ro định lượng?",
+    "options": ["Biểu đồ Pareto", "Kỹ thuật Delphi", "Ma trận xác suất/ ảnh hưởng", "Mô phỏng Monte Carlo"],
+    "correctOption": "Mô phỏng Monte Carlo"
+  },
+  {
+    "id": "140",
+    "question": "Chọn phát biểu SAI về Cấu trúc phân rã công việc (WBS)",
+    "options": [
+      "WBS cung cấp cơ sở để lập kế hoạch và quản lý các lịch biểu, chi phí và những biến đổi dự án",
+      "WBS là cây phân cấp các nhóm công việc cần thực hiện trong dự án, nó xác định phạm vi tổng thể của dự án",
+      "WBS là cần thiết khi quản lý dự án IT",
+      "WBS là không cần thiết khi quản lý dự án IT"
+    ],
+    "correctOption": "WBS là không cần thiết khi quản lý dự án IT"
+  },
+  {
+    "id": "141",
+    "question": "Phát biểu nào sau đây không là tuyên ngôn của Agile?",
+    "options": [
+      "Phản hồi với thay đổi hơn là bám sát kế hoạch.",
+      "Quy trình và công cụ hơn là cá nhân và tương tác.",
+      "Cộng tác với khách hàng hơn là đàm phán hợp đồng.",
+      "Phần mềm chạy tốt hơn là tài liệu đầy đủ."
+    ],
+    "correctOption": "Quy trình và công cụ hơn là cá nhân và tương tác."
+  },
+  {
+    "id": "142",
+    "question": "Bạn muốn thay thế các thiết bị phần cứng trong dự án của mình. Sử dụng phương pháp phân tích giá trị tiền tệ mong đợi (Expected Monetary Value), bạn nên chọn nhà cung cấp nào?",
+    "options": [
+      "Nhà cung cấp 3: 85% khả năng thành công và lợi nhuận $20000.",
+      "Nhà cung cấp 1: 70% khả năng thành công và lợi nhuận $25000.",
+      "Nhà cung cấp 4: 90% khả năng thành công và lợi nhuận $18000.",
+      "Nhà cung cấp 2: 80% khả năng thành công và lợi nhuận $22000"
+    ],
+    "correctOption": "Nhà cung cấp 2: 80% khả năng thành công và lợi nhuận $22000"
+  },
+  {
+    "id": "143",
+    "question": "Chọn phát biểu sai",
+    "options": [
+      "CMMI là bộ tiêu chuẩn để đánh giá chất lượng phần mềm.",
+      "Six Sigma là một hệ phương pháp cải tiến quy trình dựa trên thống kê nhằm giảm thiểu tỷ lệ sai sót hay khuyết tật trong sản xuất",
+      "ISO 9001 là bộ tiêu chuẩn chất lượng quốc tế.",
+      "Tất cả các đáp án khác đều sai."
+    ],
+    "correctOption": "CMMI là bộ tiêu chuẩn để đánh giá chất lượng phần mềm."
+  },
+  {
+    "id": "144",
+    "question": "Chọn phát biểu đúng về Scrum Master.",
+    "options": [
+      "Scrum Master thực chất là Project Manager",
+      "Tất cả đáp án đều sai.",
+      "Scrum Master thực chất là Team Leader.",
+      "Scrum Master hỗ trợ Development Team để nâng cao hiệu quả công việc."
+    ],
+    "correctOption": "Scrum Master hỗ trợ Development Team để nâng cao hiệu quả công việc."
+  },
+  {
+    "id": "145",
+    "question": "Một công ty quyết định không cạnh tranh trong một gói thầu vì cơ hội hoàn thành dự án trong thời gian dự định là rất mong manh. Đây là chiến lược đối phó rủi ro nào?",
+    "options": ["Chấp nhận", "Tránh rủi ro", "Chuyển giao", "Làm giảm tác hại"],
+    "correctOption": "Tránh rủi ro"
+  },
+  {
+    "id": "146",
+    "question": "Chọn phát biểu đúng về biểu đồ nguyên nhân kết quả (fishbone):",
+    "options": [
+      "Mọi đáp án khác đều sai",
+      "Là công cụ để quản lý chi phí",
+      "Là công cụ để quản lý thời gian",
+      "Là công cụ để quản lý chất lượng."
+    ],
+    "correctOption": "Là công cụ để quản lý chất lượng."
+  },
+  {
+    "id": "147",
+    "question": "Chọn phát biểu đúng đối với Product Owner.",
+    "options": [
+      "Product Owner chỉ được tham gia vào các cuộc họp của Development Team khi Development Team yêu cầu.",
+      "Product Owner quyết định chấp nhận hoặc không chấp nhận sản phẩm.",
+      "Product Owner không phải là người truyền đạt yêu cầu của khách hàng.",
+      "Product Owner không được phép thay đổi Product Backlog."
+    ],
+    "correctOption": "Product Owner quyết định chấp nhận hoặc không chấp nhận sản phẩm."
+  },
+  {
+    "id": "148",
+    "question": "Một nhóm phát triển gồm 7 thành viên (bao gồm cả Project Manager). Nếu có 2 thành viên mới sẽ tham gia vào nhóm trong thì số kênh truyền thông của dự án thay đổi như thế nào?",
+    "options": ["Tăng 2 kênh", "Tăng 19 kênh", "Tăng 15 kênh", "Tăng 4 kênh"],
+    "correctOption": "Tăng 15 kênh"
+  },
+  {
+    "id": "149",
+    "question": "Tài liệu nào sau đây mô tả tình trạng của dự án tại một thời điểm cụ thể?",
+    "options": [
+      "Báo cáo trạng thái dự án (Status report)",
+      "Báo cáo ngân sách",
+      "Báo cáo hiệu suất",
+      "Báo cáo tiến độ dự án (Progress report)"
+    ],
+    "correctOption": "Báo cáo trạng thái dự án (Status report)"
+  },
+  {
+    "id": "150",
+    "question": "Chọn phát biểu đúng về kế hoạch quản lý truyền thông?",
+    "options": [
+      "Mô tả các qui tắc trong truyền thông của nhóm đa văn hóa.",
+      "Tập trung vào việc sử dụng các công nghệ truyền thông của nhóm dự án.",
+      "Mô tả hệ thống các báo cáo tiến độ, cuộc họp truyền thông trong dự án.",
+      "Xác định nhu cầu thông tin của các bên liên quan, bao gồm định dạng và mức độ chi tiết của thông tin"
+    ],
+    "correctOption": "Xác định nhu cầu thông tin của các bên liên quan, bao gồm định dạng và mức độ chi tiết của thông tin"
+  },
+  {
+    "id": "151",
+    "question": "Phát biểu nào sau đây SAI về mục đích của quản lý dự án?",
+    "options": [
+      "Giảm chi phí phát triển dự án",
+      "Khách hàng hài lòng",
+      "Hoàn thành dự án trong thời gian qui định",
+      "Đáp ứng đầy đủ mục tiêu đề ra"
+    ],
+    "correctOption": "Giảm chi phí phát triển dự án"
+  },
+  {
+    "id": "152",
+    "question": "Trong Scrum, Sprint bao gồm các meeting sau:",
+    "options": [
+      "Planning Meeting, Daily Meeting, Retrospective Meeting.",
+      "Planning Meeting, Daily Meeting, Review Meeting, Retrospective Meeting",
+      "Daily Meeting, Review Meeting, Retrospective Meeting",
+      "Planning Meeting, Daily Meeting, Review Meeting"
+    ],
+    "correctOption": "Planning Meeting, Daily Meeting, Review Meeting, Retrospective Meeting"
+  },
+  {
+    "id": "153",
+    "question": "Nhu cầu nào sau đây KHÔNG được đề cập đến trong lý thuyết nhu cầu của A. Maslow?",
+    "options": ["An toàn", "Tự thể hiện", "Tôn trọng", "Quyền lực"],
+    "correctOption": "Quyền lực"
+  },
+  {
+    "id": "154",
+    "question": "Chọn thứ tự quản lý từ tổng quát đến cụ thể của các lĩnh vực sau:",
+    "options": [
+      "Quản lý dự án Quản lý Quản lý dự án phần mềm",
+      "Quản lý dự án - Quản lý dự án phần mềm → Quản lý",
+      "Quản lý - Quản lý dự án phần mềm → Quản lý dự án",
+      "Các thứ tự trên đều sai."
+    ],
+    "correctOption": "Các thứ tự trên đều sai."
+  },
+  {
+    "id": "155",
+    "question": "Dự án nào sau đây không phải là một dự án phần mềm:",
+    "options": [
+      "Xây dựng website thi trắc nghiệm trực tuyến.",
+      "Lắp đặt hệ thống mạng cho các trường trung học phổ thông của tỉnh An Giang",
+      "Xây dựng phần mềm quản lý nhân sự.",
+      "Tất cả các câu trên đều sai."
+    ],
+    "correctOption": "Lắp đặt hệ thống mạng cho các trường trung học phổ thông của tỉnh An Giang"
+  },
+  {
+    "id": "156",
+    "question": "Một dự án chỉ được tiến hành khi đáp ứng đầy đủ các yêu cầu",
+    "options": [
+      "Mục tiêu, yêu cầu của khách hàng, ngân sách, thời hạn thực hiện, kết quả mong muốn.",
+      "Mục tiêu, yêu cầu của khách hàng, ngân sách, giải pháp thực hiện, kết quả mong muốn.",
+      "Mục tiêu, yêu cầu của khách hàng, ngân sách, công nghệ thực hiện, kết quả mong muốn.",
+      "Mục tiêu, yêu cầu của khách hàng, ngân sách, kế hoạch thực hiện, kết quả mong muốn."
+    ],
+    "correctOption": "Mục tiêu, yêu cầu của khách hàng, ngân sách, kế hoạch thực hiện, kết quả mong muốn."
+  },
+  {
+    "id": "157",
+    "question": "Bạn là người quản lý dự án xây dựng một mail server. Hãy chọn một cách thức tốt nhất để lập WBS?",
+    "options": [
+      "Bạn xây dựng WBS đơn giản rồi đưa cho nhóm dự án xây dựng hoàn chỉnh.",
+      "Bạn sẽ làm việc với nhóm để xây dựng hoàn chỉnh WBS.",
+      "Bạn sẽ làm việc với nhóm và các chuyên viên để xây dựng hoàn chỉnh WBS.",
+      "Dự án này nhỏ nên không cần xây dựng WBS"
+    ],
+    "correctOption": "Bạn sẽ làm việc với nhóm và các chuyên viên để xây dựng hoàn chỉnh WBS."
+  },
+  {
+    "id": "158",
+    "question": "Bạn sẽ xây dựng một mạng máy tính cho một công ty nhỏ và bạn muốn lập WBS nhưng trợ lý của bạn không muốn lập WBS cho các dự án nhỏ. Vậy tại sao bạn nên lập WBS cho tất cả các dự án?",
+    "options": [
+      "Bạn muốn bảo đảm thời gian tối đa thực hiện dự án.",
+      "Bạn muốn bảo đảm dự án sẽ được hoàn thành và mọi công việc đều kết thúc",
+      "Bạn muốn trợ lý của bạn thể hiện trách nhiệm trong công việc.",
+      "Bạn muốn quản lý chi phí dự án"
+    ],
+    "correctOption": "Bạn muốn bảo đảm dự án sẽ được hoàn thành và mọi công việc đều kết thúc"
+  },
+  {
+    "id": "159",
+    "question": "Tại sao người quản lý dự án và các trưởng nhóm phải xây dựng một WBS cho dự án?",
+    "options": [
+      "Vì WBS cho phép người quản lý dự án phân công công việc.",
+      "Vì WBS cho phép người quản lý dự án phân phối các nguồn lực cho từng công việc.",
+      "Vì việc tạo ra các WBS đảm bảo xác định đầy đủ các công việc của dự án và phân bố các nguồn lực cần thiết cho từng công việc.",
+      "Vì WBS cho phép người quản lý dự án chỉ định các thành viên trong nhiều nhóm làm nhiều công việc khác nhau để tăng tốc độ thực hiện dự án."
+    ],
+    "correctOption": "Vì việc tạo ra các WBS đảm bảo xác định đầy đủ các công việc của dự án và phân bố các nguồn lực cần thiết cho từng công việc."
+  },
+  {
+    "id": "160",
+    "question": "Chọn phát biểu đúng về ước lượng:",
+    "options": [
+      "Để xác định thời gian, chi phí, nguồn lực để thực hiện dự án.",
+      "Là bước bắt buộc trước khi lập lịch.",
+      "Cơ sở để ước lượng là WBS.",
+      "Tất cả các câu trên đều đúng."
+    ],
+    "correctOption": "Tất cả các câu trên đều đúng."
+  },
+  {
+    "id": "161",
+    "question": "Trong ước lượng dự án, ước lượng chi phí từ dưới lên (bottom-up) là",
+    "options": [
+      "Ngân sách năm nay sẽ ít hơn 20% so với năm trước.",
+      "Ngân sách năm nay sẽ nhiều hơn 20% so với năm trước.",
+      "Chi phí sẽ được ước lượng ở mức thấp nhất nếu có thể.",
+      "Chi phí sẽ được ước lượng chi tiết dựa vào các công việc trong dự án"
+    ],
+    "correctOption": "Chi phí sẽ được ước lượng chi tiết dựa vào các công việc trong dự án"
+  },
+  {
+    "id": "162",
+    "question": "Trong các công việc sau, công việc nào không thể xác định khi dựa vào WBS",
+    "options": [
+      "Ước lượng chi phí.",
+      "Ước lượng thời gian thực hiện.",
+      "Quản lý rủi ro và nguồn lực",
+      "Cấp phát tài nguyên."
+    ],
+    "correctOption": "Cấp phát tài nguyên."
+  },
+  {
+    "id": "163",
+    "question": "Ước lượng trong giai đoạn nào sau đây có sai số ít nhất:",
+    "options": ["Định nghĩa.", "Phân tích", "Thực hiện (40%)", "Cả (A), (B) và (C) đều sai."],
+    "correctOption": "Thực hiện (40%)"
+  },
+  {
+    "id": "164",
+    "question": "Loại quan hệ nào giữa hai công việc diễn tả rằng sự kết thúc của một công việc phụ thuộc vào sự khởi đầu của một công việc khác?",
+    "options": ["Finish-to-Start (FS)", "Finish-to-Finish (FF)", "Start-to-Start (SS)", "Start-to-Finish (SF)"],
+    "correctOption": "Finish-to-Start (FS)"
+  },
+  {
+    "id": "165",
+    "question": "Sơ đồ Gantt",
+    "options": [
+      "Thể hiện tổng thời gian của từng thành viên trong nhóm.",
+      "Thể hiện tổng thời gian của từng nhóm.",
+      "Trình bày toàn bộ các hoạt động của dự án ở dạng timeline.",
+      "Trình bày WBS trong mối quan hệ tài chính của dự án."
+    ],
+    "correctOption": "Trình bày toàn bộ các hoạt động của dự án ở dạng timeline."
+  },
+  {
+    "id": "166",
+    "question": "Phương pháp đường tới hạn (Critical Path Method):",
+    "options": [
+      "Mô hình hóa các thao tác và sự kiện của một dự án thành một mạng",
+      "Dùng để xác định và tối ưu hóa đường tới hạn.",
+      "Xác định rằng các công việc không thuộc đường tới hạn có thể bắt đầu sớm hoặc trễ hơn mà không ảnh hưởng gì đến thời gian hoàn thành dự án.",
+      "Các câu trên đều đúng."
+    ],
+    "correctOption": "Các câu trên đều đúng."
+  },
+  {
+    "id": "167",
+    "question": "Giải pháp tốt nhất để ngăn ngừa sự thay đổi kế hoạch dự án",
+    "options": ["Có đầy đủ vốn", "Có đầy đủ tài nguyên.", "Lập kế hoạch chính xác.", "Sử dụng kỹ thuật hiện đại."],
+    "correctOption": "Lập kế hoạch chính xác."
+  },
+  {
+    "id": "168",
+    "question": "Tại sao người quản lý dự án và các trưởng nhóm phải xây dựng một WBS cho dự án",
+    "options": [
+      "Vì WBS cho phép người quản lý dự án phân công công việc.",
+      "Vì WBS cho phép người quản lý dự án phân phối các nguồn lực cho từng công việc.",
+      "Vì việc tạo ra các WBS đảm bảo xác định đầy đủ các công việc của dự án và phân bổ các nguồn lực cần thiết cho từng công việc.",
+      "Vì WBS cho phép người quản lý dự án chỉ định các thành viên trong nhiều nhóm làm nhiều công việc khác nhau để tăng tốc độ thực hiện dự án."
+    ],
+    "correctOption": "Vì việc tạo ra các WBS đảm bảo xác định đầy đủ các công việc của dự án và phân bổ các nguồn lực cần thiết cho từng công việc."
+  },
+  {
+    "id": "169",
+    "question": "HCWP (Budget Cost of Work Performed) là",
+    "options": [
+      "Ngân sách dự tính theo kế hoạch",
+      "Ngân sách dự tính của công việc đã thực hiện.",
+      "Chi phí thực sự của công việc đã thực hiện",
+      "Các câu trên đều sai"
+    ],
+    "correctOption": "Ngân sách dự tính của công việc đã thực hiện."
+  },
+  {
+    "id": "170",
+    "question": "Báo cáo mới nhất của một dự án có các số liệu sau: BCWP - 3.000, ACWP-1500, và BCWS - 4.000. Phương sai về lịch biểu là:",
+    "options": ["+ 1.000", "+ 500", "- 500", "- 1.000"],
+    "correctOption": "- 1.000"
+  },
+  {
+    "id": "171",
+    "question": "Một người quản lý dự án thực hiện phân tích giá trị đạt được và tìm thấy các kết quả sau. BCWP-100.000, BCWS-125.000, ACWP-100.000. Khi đó dự án đang được thực hiện",
+    "options": [
+      "Đúng lịch nhưng đã vượt quả ngân sách.",
+      "Đúng thời gian và ngân sách.",
+      "Trễ so với lịch biểu nhưng đúng ngân sách.",
+      "Trễ so với lịch biểu và vượt quả ngân sách."
+    ],
+    "correctOption": "Trễ so với lịch biểu nhưng đúng ngân sách."
+  },
+  {
+    "id": "172",
+    "question": "Một dự án sau khi phân tích giá trị đạt được có các số liệu như sau ACWP = 220.000, BCWS = 250.000, BCWP = 220.000. Khi đó",
+    "options": ["CV = 0", "CV = 30", "CV = - 30", "CV = 1"],
+    "correctOption": "CV = 0"
+  },
+  {
+    "id": "173",
+    "question": "Chi phí thực hiện của dự án bị vượt ngân sách dự tính theo kế hoạch",
+    "options": ["CPI>1", "CPI<1", "CPI<0", "SPI=1"],
+    "correctOption": "CPI<1"
+  },
+  {
+    "id": "174",
+    "question": "Phân tích giá trị đạt được của một dự án có các kết quả BCWP=523,000, BCWS=623.000, ACWP=643.000. Các kết quả nào sau đây là đúng.",
+    "options": ["CV = 120 000: SV = +100 000", "CV = 100 SV = 120", "CV = - 100 SV = - 120", "CV = - 120 SV = 100"],
+    "correctOption": "CV = - 120 SV = 100"
+  },
+  {
+    "id": "175",
+    "question": "Biện pháp nào sau đây không được sử dụng để xử lý rủi ro",
+    "options": ["Tránh", "Chấp nhận", "Hạn chế", "Không chấp nhận"],
+    "correctOption": "Không chấp nhận"
+  },
+  {
+    "id": "176",
+    "question": "Chọn phát biểu đúng về rủi ro",
+    "options": [
+      "Là một sự kiện hoặc trường hợp không biết trước.",
+      "Làm cho dự án có khả năng bị trì hoãn hoặc thất bại.",
+      "Có thể ảnh hưởng đến 1 công việc hoặc toàn bộ dự án.",
+      "Cả 3 ý trên đều đúng"
+    ],
+    "correctOption": "Cả 3 ý trên đều đúng"
+  },
+  {
+    "id": "177",
+    "question": "Điểm nguy hiểm nhất có thể xảy ra khi khách hàng yêu cầu thay đổi phạm vi (scope) của dự án",
+    "options": [
+      "Dự án không hoàn thành đúng tiến độ",
+      "Tinh thần của nhóm có thể suy giảm.",
+      "Trưởng dự án có thể giảm thu nhập",
+      "Cấp lãnh đạo có thể hủy dự án."
+    ],
+    "correctOption": "Tinh thần của nhóm có thể suy giảm."
+  },
+  {
+    "id": "178",
+    "question": "Chọn phát biểu đúng về quản lý rủi ro",
+    "options": [
+      "Quản lý rủi ro là sự lo lắng về dự án.",
+      "Quản lý rủi ro là chuẩn bị sẵn ngân sách, nhân lực để khắc phục rủi ro.",
+      "Quản lý rủi ro là việc dự đoán, phát hiện, phân tích, xử lý và kiểm soát rủi ro",
+      "Quản lý rủi ro đảm bảo là dự án sẽ thành công"
+    ],
+    "correctOption": "Quản lý rủi ro là việc dự đoán, phát hiện, phân tích, xử lý và kiểm soát rủi ro"
+  },
+  {
+    "id": "179",
+    "question": "Khi thành lập nhóm dự án, tại sao người quản lý dự án cần phải biết kỹ năng của từng thành viên tương lai của nhóm",
+    "options": [
+      "Việc đó giúp trưởng dự án xác định ngân sách của dự án.",
+      "Việc đó giúp trưởng dự án xác định thời gian xây dựng dự án.",
+      "Việc đó giúp trưởng dự án xác định trưởng nhóm.",
+      "Việc đó giúp trưởng dự án phân công công việc."
+    ],
+    "correctOption": "Việc đó giúp trưởng dự án phân công công việc."
+  },
+  {
+    "id": "180",
+    "question": "Trong trường hợp nào thì huấn luyện (training) được xem là lãng phí:",
+    "options": [
+      "Chi phí huấn luyện không thuộc ngân sách của công ty hay tổ chức.",
+      "Khi thời gian huấn luyện làm tăng thời gian hoàn thành dự án.",
+      "Khi kinh nghiệm huấn luyện không làm tăng khả năng vận dụng kỹ thuật hay công nghệ mới.",
+      "Khi kinh nghiệm huấn luyện không dẫn đến tăng lương của từng cá nhân."
+    ],
+    "correctOption": "Khi kinh nghiệm huấn luyện không làm tăng khả năng vận dụng kỹ thuật hay công nghệ mới."
+  },
+  {
+    "id": "181",
+    "question": "Các dự án sẽ thành công hơn nếu người quản lý dự án gây ảnh hưởng đến người khác bằng:",
+    "options": ["Quyền lực", "Tiền", "Kỷ luật.", "Sự thử thách của công việc"],
+    "correctOption": "Sự thử thách của công việc"
+  },
+  {
+    "id": "182",
+    "question": "Quản lý nhân sự dự án gồm các quá trình nào sau đây:",
+    "options": [
+      "Hoạch định tài nguyên nhân sự và quản lý đội dự án.",
+      "Hoạch định, thu nhận nhân viên và quản lý đội dự án.",
+      "Hoạch định tài nguyên nhân sự thu nhận nhân viên và quản lý đội, dự án",
+      "(C) và phát triển kỹ năng."
+    ],
+    "correctOption": "(C) và phát triển kỹ năng."
+  },
+  {
+    "id": "183",
+    "question": "Tháp nhu cầu của Maslow",
+    "options": [
+      "Chia làm 2 mức thấp và cao",
+      "Gồm có 5 bậc",
+      "Ở đỉnh tháp là nhu cầu tự hoàn thiện",
+      "Các câu trên đều đúng"
+    ],
+    "correctOption": "Các câu trên đều đúng"
+  },
+  {
+    "id": "184",
+    "question": "Làm thế nào để có thể khơi dậy lòng say mê công việc cho các thành viên trong nhóm",
+    "options": [
+      "Đưa ra mức thưởng hậu hĩnh nếu dự án hoàn thành đúng tiến độ",
+      "Nhắc nhở các thành viên trong nhóm sự đam mê là cần thiết trong nghề nghiệp của họ",
+      "Trở nên say mê dự án như của chính bạn.",
+      "Nhắc nhở các thành viên trong nhóm rằng những lỗi của họ đều được ghi chú"
+    ],
+    "correctOption": "Trở nên say mê dự án như của chính bạn."
+  },
+  {
+    "id": "185",
+    "question": "Nhân tố chính để tổ chức thành công cuộc họp của các thành viên nhóm dự án là",
+    "options": [
+      "Có sự chuẩn bị tốt.",
+      "Có sự tham dự đầy đủ của các thành viên.",
+      "Thu thập trạng thái của dự án.",
+      "Xem lại phân công công việc của tuần tới."
+    ],
+    "correctOption": "Có sự chuẩn bị tốt."
+  },
+  {
+    "id": "186",
+    "question": "Quản lý dự án là gì?",
+    "options": [
+      "Một quá trình gồm nhiều công việc, nhiệm vụ có liên quan với nhau, được thực hiện nhằm đạt mục tiêu đã đề ra, trong điều kiện ràng buộc về thời gian, phạm vi và chi phí.",
+      "Một quá trình gồm nhiều công việc được thực hiện mà có tính lặp đi lặp lại, liên tục.",
+      "Một kế hoạch dài hạn, tổng hợp, được thực hiện trên một phạm vi không gian rộng lớn, thời gian dài không xác định.",
+      "Nỗ lực ngắn hạn trong vài tuần, hoặc vài tháng được thực hiện bởi một tổ chức nào đó."
+    ],
+    "correctOption": "Một quá trình gồm nhiều công việc, nhiệm vụ có liên quan với nhau, được thực hiện nhằm đạt mục tiêu đã đề ra, trong điều kiện ràng buộc về thời gian, phạm vi và chi phí."
+  },
+  {
+    "id": "187",
+    "question": "Loại dự án nào thuộc loại dự án “Xây dựng cơ sở hạ tầng công nghệ thông tin”?",
+    "options": [
+      "Đào tạo cán bộ từ cấp huyện đạt chuẩn kỹ năng công nghệ thông tin.",
+      "Phát triển hệ thống mạng từ 3G lên 4G.",
+      "Xây dựng “Khu công nghệ phần mềm” tại một Thành phố.",
+      "Xây dựng hệ thống phần mềm quản lý “Thư Viện”."
+    ],
+    "correctOption": "Phát triển hệ thống mạng từ 3G lên 4G."
+  },
+  {
+    "id": "188",
+    "question": "Loại dự án nào thuộc loại dự án “Ứng dụng công nghệ thông tin”?",
+    "options": [
+      "Xây dựng “Khu công nghệ phần mềm” tại một Thành phố.",
+      "Đào tạo cán bộ từ cấp huyện đạt chuẩn kỹ năng công nghệ thông tin.",
+      "Xây dựng hệ thống phần mềm quản lý “Thư Viện”.",
+      "Phát triển hệ thống mạng từ 3G lên 4G."
+    ],
+    "correctOption": "Xây dựng hệ thống phần mềm quản lý “Thư Viện”."
+  },
+  {
+    "id": "189",
+    "question": "WBS được xem là một công cụ hỗ trợ đắc lực trong hoạt động trao đổi thông tin của:",
+    "options": ["Khách hàng", "Đội dự án", "Các bên liên quan", "Nhà cung cấp dịch vụ"],
+    "correctOption": "Đội dự án"
+  },
+  {
+    "id": "190",
+    "question": "Dự án công nghệ thông tin là gì?",
+    "options": [
+      "Tập hợp các công việc được thực hiện bởi một tập thể nhằm đạt được trong thời gian, kinh phí và một kết quả như dự kiến theo lĩnh vực công nghệ thông tin.",
+      "Đánh giá bước đầu về các 'tham số' của dự án: quy mô, độ phức tạp, nguồn lực",
+      "Một kế hoạch dài hạn, tổng hợp, được thực hiện trên một phạm vi không gian rộng lớn, thời gian dài không xác định",
+      "Thực hiện lặp đi lặp lại các công việc trong một thời gian dài không xác định."
+    ],
+    "correctOption": "Tập hợp các công việc được thực hiện bởi một tập thể nhằm đạt được trong thời gian, kinh phí và một kết quả như dự kiến theo lĩnh vực công nghệ thông tin."
+  },
+  {
+    "id": "191",
+    "question": "Theo lý thuyết nhu cầu đã được thỏa mãn của McClelland, con người mong muốn có mối quan hệ gần gũi và thân thiện với mọi người xung quanh là thuộc về nhu cầu nào sau đây?",
+    "options": ["Thành tích", "Quyền lực", "Liên minh", "Giao tiếp"],
+    "correctOption": "Liên minh"
+  },
+  {
+    "id": "192",
+    "question": "Một giai đoạn trong quy trình quản lý dự án mà có 'yêu cầu việc theo dõi, rà soát và điều chỉnh lại tiến độ và khả năng thực hiện của dự án', là giai đoạn nào?",
+    "options": ["Triển khai.", "Giám sát và kiểm soát.", "Lập kế hoạch dự án.", "Kết thúc."],
+    "correctOption": "Giám sát và kiểm soát."
+  },
+  {
+    "id": "193",
+    "question": "Một giai đoạn trong qui trình quản lý dự án có chức năng 'thực hiện việc định nghĩa một dự án mới hoặc một phát sinh (hoặc trộn lẫn) mới của một dự án có sẵn', là giai đoạn nào?",
+    "options": ["Triển khai.", "Giám sát và kiểm soát.", "Khởi tạo dự án.", "Kết thúc."],
+    "correctOption": "Khởi tạo dự án."
+  },
+  {
+    "id": "194",
+    "question": "Trong quản lý nguồn nhân lực dự án, công cụ nào thể hiện cơ cấu của tổ chức theo chức năng?",
+    "options": ["WBS", "RAM", "OBS", "RACI"],
+    "correctOption": "OBS"
+  },
+  {
+    "id": "195",
+    "question": "Một giai đoạn trong qui trình quản lý dự án mà 'thực hiện để kết thúc tất cả các hoạt động của dự án để chính thức đóng lại dự án', được gọi là giai đoạn nào?",
+    "options": ["Triển khai.", "Giám sát và kiểm soát.", "Khởi tạo dự án.", "Kết thúc."],
+    "correctOption": "Kết thúc."
+  },
+  {
+    "id": "196",
+    "question": "Số vai trò trong ma trận trách nhiệm là:",
+    "options": ["5", "4", "3", "2"],
+    "correctOption": "4"
+  },
+  {
+    "id": "197",
+    "question": "Một giai đoạn trong qui trình quản lý dự án mà 'thực hiện hoàn thành các công việc được xác định trong phần lập kế hoạch để đảm bảo các yêu cầu của dự án', được gọi là giai đoạn gì?",
+    "options": ["Triển khai.", "Giám sát và kiểm soát.", "Khởi tạo dự án.", "Kết thúc."],
+    "correctOption": "Triển khai."
+  },
+  {
+    "id": "198",
+    "question": "Yêu cầu cần phải có của một người quản lý dự án phần mềm là",
+    "options": [
+      "Kinh nghiệm quản lý.",
+      "Kinh nghiệm đàm phán với khách hàng.",
+      "Kinh nghiệm lập trình.",
+      "Kinh nghiệm làm việc trong nhóm."
+    ],
+    "correctOption": "Kinh nghiệm làm việc trong nhóm."
+  },
+  {
+    "id": "199",
+    "question": "Một giai đoạn trong qui trình quản lý dự án mà có 'yêu cầu thiết lập phạm vi công việc của dự án, điều chỉnh lại mục tiêu và xác định đường đi tới mục tiêu đó', được gọi là giai đoạn nào?",
+    "options": ["Triển khai.", "Lập kế hoạch dự án.", "Giám sát và kiểm soát.", "Kết thúc."],
+    "correctOption": "Lập kế hoạch dự án."
+  },
+  {
+    "id": "200",
+    "question": "Đội dự án đi gần tới phần cuối cùng của việc xây dựng và sẵn sàng kiểm thử toàn bộ ứng dụng. Họ sẽ thực hiện loại hình kiểm thử nào?",
+    "options": ["UAT", "Unit", "Module", "System"],
+    "correctOption": "System"
+  },
+  {
+    "id": "201",
+    "question": "Quy trình quản lý dự án đầy đủ gồm những giai đoạn nào?",
+    "options": [
+      "Ước lượng kinh phí; Triển khai; Giám sát và kiểm soát; Kết thúc",
+      "Ước lượng thời gian; Lập kế hoạch dự án; Triển khai; Kết thúc",
+      "Ước lượng phạm vi; Lập kế hoạch dự án; Triển khai; Kết thúc",
+      "Khởi tạo dự án; Lập kế hoạch dự án; Triển khai; Giám sát và kiểm soát; Kết thúc"
+    ],
+    "correctOption": "Khởi tạo dự án; Lập kế hoạch dự án; Triển khai; Giám sát và kiểm soát; Kết thúc"
+  },
+  {
+    "id": "202",
+    "question": "Phương pháp nào sau đây không hỗ trợ lập kế hoạch tiến độ dự án:",
+    "options": ["Biểu đồ Gantt", "COCOMO", "PERT", "Đường tới hạn"],
+    "correctOption": "COCOMO"
+  },
+  {
+    "id": "203",
+    "question": "Bộ ba ràng buộc trong quản lý dự án là gì?",
+    "options": [
+      "Khởi tạo, lập kế hoạch, triển khai",
+      "Phạm vi, thời gian, chi phí",
+      "Tổ chức, phân tích, lập lịch",
+      "Theo thống kê, nguyên nhân, kết quả"
+    ],
+    "correctOption": "Phạm vi, thời gian, chi phí"
+  },
+  {
+    "id": "204",
+    "question": "Giả sử A là hoạt động thu thập yêu cầu phần mềm, B là hoạt động phân tích yêu cầu phần mềm. Khi đó quan hệ phụ thuộc nhiệm vụ giữa A và B là gì khi hai công việc này cùng thực hiện?",
+    "options": ["FS", "SF", "SS", "FF"],
+    "correctOption": "SS"
+  },
+  {
+    "id": "205",
+    "question": "Giả sử A là hoạt động phân tích, B là hoạt động thiết kế. Khi đó quan hệ phụ thuộc nhiệm vụ giữa A và B là:",
+    "options": ["FS", "SF", "SS", "FF"],
+    "correctOption": "FS"
+  },
+  {
+    "id": "206",
+    "question": "Loại quan hệ nào biểu diễn sự phụ thuộc giữa công việc kiểm thử đơn vị chỉ có thể hoàn thành sau khi công việc viết mã lệnh đã hoàn thành?",
+    "options": ["FS", "SF", "SS", "FF"],
+    "correctOption": "SF"
+  },
+  {
+    "id": "207",
+    "question": "Loại quan hệ nào biểu diễn sự kết thúc của một công việc phụ thuộc vào sự kết thúc của một công việc khác?",
+    "options": ["FS", "SF", "SS", "FF"],
+    "correctOption": "FF"
+  },
+  {
+    "id": "208",
+    "question": "Loại quan hệ nào biểu diễn sự bắt đầu của một công việc phụ thuộc vào sự kết thúc của một công việc khác?",
+    "options": ["FS", "SF", "SS", "FF"],
+    "correctOption": "FS"
+  },
+  {
+    "id": "209",
+    "question": "Để đảm bảo dự án thành công, các thành viên dự án phải đảm bảo các hoạt động NGOẠI TRỪ hoạt động nào sau đây?",
+    "options": [
+      "Đào tạo nguồn nhân lực công nghệ xây dựng.",
+      "Tuân theo các yêu cầu để đáp ứng được nhu cầu và mong đợi của các bên liên quan.",
+      "Cân bằng được các yêu cầu cạnh tranh trong dự án.",
+      "Lựa chọn quy trình phù hợp để đạt được mục tiêu của dự án."
+    ],
+    "correctOption": "Đào tạo nguồn nhân lực công nghệ xây dựng."
+  },
+  {
+    "id": "210",
+    "question": "Mục tiêu của dự án là gì?",
+    "options": [
+      "Một danh sách tất cả những gì dự án phải làm (và cũng có thể là không phải làm).",
+      "Một quá trình gồm nhiều công việc, nhiệm vụ có liên quan với nhau, được thực hiện nhằm đạt mục tiêu đã đề ra.",
+      "Giải quyết được những yêu cầu được đặt ra trong thực tế khi bắt đầu dự án.",
+      "Theo dõi, rà soát và điều chỉnh lại tiến độ và khả năng thực hiện của dự án."
+    ],
+    "correctOption": "Giải quyết được những yêu cầu được đặt ra trong thực tế khi bắt đầu dự án."
+  },
+  {
+    "id": "211",
+    "question": "Loại dự án nào thuộc loại dự án đào tạo nguồn nhân lực?",
+    "options": [
+      "Phát triển hệ thống mạng từ 3G lên 4G.",
+      "Xây dựng hệ thống phần mềm quản lý 'Khách Sạn'.",
+      "Xây dựng 'Khu công nghệ phần mềm' tại một Thành phố.",
+      "Đào tạo cán bộ từ cấp huyện đạt chuẩn kỹ năng công nghệ thông tin."
+    ],
+    "correctOption": "Đào tạo cán bộ từ cấp huyện đạt chuẩn kỹ năng công nghệ thông tin."
+  },
+  {
+    "id": "212",
+    "question": "Một lĩnh vực quản lý dự án là “Quản lý phạm vi”. Vậy phạm vi là gì?",
+    "options": [
+      "Những qui trình bảo đảm hoàn tất dự án đúng hạn.",
+      "Kỹ thuật đánh giá và xem xét chương trình.",
+      "Một danh sách tất cả những gì dự án phải làm.",
+      "Những quy trình yêu cầu đảm bảo cho dự án được hoàn tất trong sự cho phép của ngân sách."
+    ],
+    "correctOption": "Một danh sách tất cả những gì dự án phải làm."
+  },
+  {
+    "id": "213",
+    "question": "Chi phí trong quản lý dự án là gì?",
+    "options": [
+      "Những qui trình bảo đảm hoàn tất dự án đúng hạn.",
+      "Những kết quả của dự án mà sẽ chuyển giao.",
+      "Một danh sách tất cả những gì dự án phải làm.",
+      "Tài nguyên được hy sinh hay tính trước để đạt được một mục tiêu rõ ràng hay để trao đổi cái gì đó, được đo bằng đơn vị tiền tệ."
+    ],
+    "correctOption": "Tài nguyên được hy sinh hay tính trước để đạt được một mục tiêu rõ ràng hay để trao đổi cái gì đó, được đo bằng đơn vị tiền tệ."
+  },
+  {
+    "id": "214",
+    "question": "Quản lý chi phí dự án bao gồm qui trình nào?",
+    "options": [
+      "Những quy trình yêu cầu đảm bảo cho dự án được hoàn tất trong sự cho phép của ngân sách.",
+      "Nhận biết điều gì có thể dẫn đến sai sót và vẫn trong kiểm soát khi có điều trục trặc.",
+      "Một danh sách tất cả những gì dự án phải làm.",
+      "Những qui trình bảo đảm hoàn tất dự án đúng hạn."
+    ],
+    "correctOption": "Những quy trình yêu cầu đảm bảo cho dự án được hoàn tất trong sự cho phép của ngân sách."
+  },
+  {
+    "id": "215",
+    "question": "Qui trình nào để quản lý chi phí dự án?",
+    "options": [
+      "Cân bằng được các yêu cầu cạnh tranh trong dự án.",
+      "Lập kế hoạch cho nguồn tài nguyên.",
+      "Tổng kết về tất cả các sản phẩm trung gian của dự án.",
+      "Nhận biết điều gì có thể dẫn đến sai sót và vẫn trong kiểm soát khi có điều trục trặc."
+    ],
+    "correctOption": "Lập kế hoạch cho nguồn tài nguyên."
+  },
+  {
+    "id": "216",
+    "question": "Trong quản lý chi phí dự án, qui trình nào để quản lý chi phí?",
+    "options": [
+      "Nhận biết điều gì có thể dẫn đến sai sót và vẫn trong kiểm soát khi có điều trục trặc.",
+      "Cân bằng được các yêu cầu cạnh tranh trong dự án.",
+      "Tổng kết về tất cả các sản phẩm trung gian của dự án.",
+      "Dự toán chi phí: phân bổ toàn bộ chi phí ước tính vào từng hạng mục công việc để thiết lập một đường mức cho việc đo lường việc thực hiện."
+    ],
+    "correctOption": "Dự toán chi phí: phân bổ toàn bộ chi phí ước tính vào từng hạng mục công việc để thiết lập một đường mức cho việc đo lường việc thực hiện."
+  },
+  {
+    "id": "217",
+    "question": "Để quản lý chi phí dự án, cần qui trình nào?",
+    "options": [
+      "Kiểm soát – Điều chỉnh chi phí: điều chỉnh thay đổi chi phí dự án",
+      "Cân bằng được các yêu cầu cạnh tranh trong dự án.",
+      "Tổng kết về tất cả các sản phẩm trung gian của dự án.",
+      "Nhận biết điều gì có thể dẫn đến sai sót."
+    ],
+    "correctOption": "Kiểm soát – Điều chỉnh chi phí: điều chỉnh thay đổi chi phí dự án"
+  },
+  {
+    "id": "218",
+    "question": "Qui trình quản lý chất lượng bao gồm các giai đoạn nào?",
+    "options": [
+      "Lập kế hoạch; Đảm bảo; Kiểm tra",
+      "Lập kế hoạch dự án; Triển khai; Kết thúc",
+      "Lập kế hoạch triển khai; Đánh giá qui trình; Nghiệm thu kết thúc",
+      "Khởi tạo dự án; Lập kế hoạch dự án; Triển khai; Giám sát và kiểm soát; Kết thúc"
+    ],
+    "correctOption": "Lập kế hoạch; Đảm bảo; Kiểm tra"
+  },
+  {
+    "id": "219",
+    "question": "Theo thống kê chung trên thế giới, có “33% các dự án bị huỷ” bởi nguyên nhân?",
+    "options": [
+      "Dự án có thể mắc sai lầm trong giai đoạn phân tích và thiết kế.",
+      "Người quản lý dự án không phân công rõ nhiệm vụ của từng người.",
+      "Vượt qua giới hạn về thời gian hoặc kinh phí.",
+      "Thiếu hoặc không hiểu rõ các công cụ hỗ trợ cho việc phát triển hệ thống."
+    ],
+    "correctOption": "Vượt qua giới hạn về thời gian hoặc kinh phí."
+  },
+  {
+    "id": "220",
+    "question": "Theo thống kê chung trên thế giới, “33% các dự án thất bại” vì lý do gì?",
+    "options": [
+      "Thiếu hoặc không hiểu rõ các công cụ hỗ trợ cho việc phát triển hệ thống cũng như cho việc quản lý - theo dõi dự án.",
+      "Người quản lý dự án không phân công rõ nhiệm vụ của từng người.",
+      "Dự án có thể mắc sai lầm trong giai đoạn phân tích và thiết kế.",
+      "Công nghệ đã bị thay đổi quá nhiều so với hiệu quả mà dự án sẽ mang lại."
+    ],
+    "correctOption": "Người quản lý dự án không phân công rõ nhiệm vụ của từng người."
+  },
+  {
+    "id": "221",
+    "question": "Theo thống kê chung trên thế giới, “50% - 100% các dự án thất bại” vì lý do gì?",
+    "options": [
+      "Một dự án mà chi phí của nó vượt quá 50% kinh phí cho phép.",
+      "Công nghệ đã bị thay đổi quá nhiều so với hiệu quả mà dự án sẽ mang lại.",
+      "Dự án có thể mắc sai lầm trong giai đoạn phân tích và thiết kế.",
+      "Thiếu hoặc không hiểu rõ các công cụ hỗ trợ cho việc phát triển hệ thống."
+    ],
+    "correctOption": "Công nghệ đã bị thay đổi quá nhiều so với hiệu quả mà dự án sẽ mang lại."
+  },
+  {
+    "id": "222",
+    "question": "Thuật ngữ: Chi phí dự tính theo ngân sách của công việc theo kế hoạch được viết tắt là (viết hoa)",
+    "options": ["BCWP"],
+    "correctOption": "BCWP"
+  },
+  {
+    "id": "223",
+    "question": "Thuật ngữ: Chi phí dự tính theo ngân sách của công việc đã hoàn tất được viết tắt là (viết hoa)",
+    "options": ["ACWP"],
+    "correctOption": "ACWP"
+  },
+  {
+    "id": "224",
+    "question": "Thuật ngữ: Chi phí thực tế của công việc đã hoàn tất. được viết tắt là (viết hoa)",
+    "options": ["BCWS"],
+    "correctOption": "BCWS"
+  },
+  {
+    "id": "225",
+    "question": "Thuật ngữ: Thời gian theo lịch trình cho công việc đã được thực hiện. được viết tắt là (viết hoa)",
+    "options": ["ACWP"],
+    "correctOption": "ACWP"
+  },
+  {
+    "id": "226",
+    "question": "Thuật ngữ: Thời gian thực tế để thực hiện công việc đã hoàn thành. được viết tắt là (viết hoa)",
+    "options": ["ACT"],
+    "correctOption": "ACT"
+  },
+  {
+    "id": "227",
+    "question": "Theo thống kê chung trên thế giới, có “50% - 100% các dự án bị hủy” nguyên nhân bởi?",
+    "options": [
+      "Công nghệ đã bị thay đổi quá nhiều so với hiệu quả mà dự án sẽ mang lại.",
+      "Một dự án mà kéo dài quá 50% thời gian dự định.",
+      "Dự án có thể mắc sai lầm trong giai đoạn phân tích và thiết kế.",
+      "Người quản lý dự án không phân công rõ nhiệm vụ của từng người."
+    ],
+    "correctOption": "Dự án có thể mắc sai lầm trong giai đoạn phân tích và thiết kế."
+  },
+  {
+    "id": "228",
+    "question": "“Lập kế hoạch phạm vi” là gì?",
+    "options": [
+      "Những quy trình yêu cầu đảm bảo cho dự án được hoàn tất trong sự cho phép của ngân sách.",
+      "Kỹ thuật đánh giá và xem xét chương trình.",
+      "Những qui trình bảo đảm hoàn tất dự án đúng hạn.",
+      "Quá trình xây dựng các tài liệu nhằm cung cấp nền tảng về phạm vi của dự án."
+    ],
+    "correctOption": "Quá trình xây dựng các tài liệu nhằm cung cấp nền tảng về phạm vi của dự án."
+  },
+  {
+    "id": "229",
+    "question": "“Lập kế hoạch chất lượng” là giai đoạn nào sau đây?",
+    "options": [
+      "Đánh giá toàn bộ việc thực hiện dự án để chắc chắn dự án sẽ thoả mãn những vấn đề liên quan tới tiêu chuẩn chất lượng.",
+      "Nhận biết được tiêu chuẩn chất lượng có liên quan tới dự án.",
+      "Kiểm tra chi tiết những kết quả dự án.",
+      "Đánh giá có thể sử dụng để phát minh những sáng kiến cải tiến chất lượng."
+    ],
+    "correctOption": "Nhận biết được tiêu chuẩn chất lượng có liên quan tới dự án."
+  },
+  {
+    "id": "230",
+    "question": "Giai đoạn 'đảm bảo chất lượng' là giai đoạn nào?",
+    "options": [
+      "Kiểm tra chi tiết những kết quả dự án để chắc chắn rằng chúng đã tuân thủ những tiêu chuẩn chất lượng có liên quan.",
+      "Nhận biết được tiêu chuẩn chất lượng nào có liên quan tới dự án.",
+      "Đánh giá toàn bộ việc thực hiện dự án để chắc chắn dự án sẽ thoả mãn những vấn đề liên quan tới tiêu chuẩn chất lượng.",
+      "Đánh giá có thể sử dụng để phát minh những sáng kiến cải tiến chất lượng."
+    ],
+    "correctOption": "Đánh giá toàn bộ việc thực hiện dự án để chắc chắn dự án sẽ thoả mãn những vấn đề liên quan tới tiêu chuẩn chất lượng."
+  },
+  {
+    "id": "231",
+    "question": "Chọn công thức tính phương sai về chi phí:",
+    "options": ["CV = BCWP - ACWP", "CV = ACWP - BCWP", "CV = BCWP - BCWS", "CV = BCWS - BCWP."],
+    "correctOption": "CV = BCWP - ACWP"
+  },
+  {
+    "id": "232",
+    "question": "Giai đoạn 'Kiểm tra chất lượng' là giai đoạn nào?",
+    "options": [
+      "Đánh giá có thể sử dụng để phát minh những sáng kiến cải tiến chất lượng.",
+      "Nhận biết được tiêu chuẩn chất lượng nào có liên quan tới dự án.",
+      "Đánh giá toàn bộ việc thực hiện dự án để chắc chắn dự án sẽ thoả mãn những vấn đề liên quan tới tiêu chuẩn chất lượng.",
+      "Kiểm tra chi tiết những kết quả dự án để chắc chắn rằng chúng đã tuân thủ những tiêu chuẩn chất lượng có liên quan."
+    ],
+    "correctOption": "Kiểm tra chi tiết những kết quả dự án để chắc chắn rằng chúng đã tuân thủ những tiêu chuẩn chất lượng có liên quan."
+  },
+  {
+    "id": "233",
+    "question": "Theo thống kê chung trên thế giới, có các nguyên nhân dẫn đến 33% các dự án bị huỷ, NGOẠI TRỪ nguyên nhân nào?",
+    "options": [
+      "Người dùng hoặc khách hàng không cần tới nó nữa.",
+      "Công nghệ đã bị thay đổi quá nhiều so với hiệu quả mà dự án sẽ mang lại.",
+      "Người quản lý dự án không phân công rõ nhiệm vụ của từng người.",
+      "Vượt qua giới hạn về thời gian hoặc kinh phí."
+    ],
+    "correctOption": "Người quản lý dự án không phân công rõ nhiệm vụ của từng người."
+  },
+  {
+    "id": "234",
+    "question": "Tiến độ thực hiện dự án đúng theo kế hoạch đề ra thì Phương sai về lịch biểu bằng bao nhiêu (nhập số)",
+    "options": [">0", "<0", "=0", "0"],
+    "correctOption": "0"
+  },
+  {
+    "id": "235",
+    "question": "Tiến độ thực hiện dự án sớm hơn so với kế hoạch thì phương sai",
+    "options": [">0", "<0", "=0"],
+    "correctOption": ">0"
+  },
+  {
+    "id": "236",
+    "question": "Một lĩnh vực quản lý dự án là 'Quản lý phạm vi'. Vậy phạm vi là gì?",
+    "options": [
+      "Những qui trình bảo đảm hoàn tất dự án đúng hạn.",
+      "Kỹ thuật đánh giá và xem xét chương trình.",
+      "Một danh sách tất cả những gì dự án phải làm.",
+      "Những quy trình yêu cầu đảm bảo cho dự án được hoàn tất trong sự cho phép của ngân sách."
+    ],
+    "correctOption": "Một danh sách tất cả những gì dự án phải làm."
+  },
+  {
+    "id": "237",
+    "question": "Chi phí trong quản lý dự án là gì?",
+    "options": [
+      "Những qui trình bảo đảm hoàn tất dự án đúng hạn.",
+      "Những kết quả của dự án mà sẽ chuyển giao.",
+      "Một danh sách tất cả những gì dự án phải làm.",
+      "Tài nguyên được hy sinh hay tính trước để đạt được một mục tiêu rõ ràng hay để trao đổi cái gì đó, được đo bằng đơn vị tiền tệ."
+    ],
+    "correctOption": "Tài nguyên được hy sinh hay tính trước để đạt được một mục tiêu rõ ràng hay để trao đổi cái gì đó, được đo bằng đơn vị tiền tệ."
+  },
+  {
+    "id": "238",
+    "question": "Quản lý chi phí dự án bao gồm qui trình nào?",
+    "options": [
+      "Những quy trình yêu cầu đảm bảo cho dự án được hoàn tất trong sự cho phép của ngân sách.",
+      "Nhận biết điều gì có thể dẫn đến sai sót và vẫn trong kiểm soát khi có điều trục trặc.",
+      "Một danh sách tất cả những gì dự án phải làm.",
+      "Những qui trình bảo đảm hoàn tất dự án đúng hạn."
+    ],
+    "correctOption": "Những quy trình yêu cầu đảm bảo cho dự án được hoàn tất trong sự cho phép của ngân sách."
+  },
+  {
+    "id": "239",
+    "question": "Qui trình nào để quản lý chi phí dự án?",
+    "options": [
+      "Cân bằng được các yêu cầu cạnh tranh trong dự án.",
+      "Lập kế hoạch cho nguồn tài nguyên.",
+      "Tổng kết về tất cả các sản phẩm trung gian của dự án.",
+      "Nhận biết điều gì có thể dẫn đến sai sót và vẫn trong kiểm soát khi có điều trục trặc."
+    ],
+    "correctOption": "Lập kế hoạch cho nguồn tài nguyên."
+  },
+  {
+    "id": "240",
+    "question": "Qui trình nào để 'quản lý chi phí dự án'?",
+    "options": [
+      "Tổng kết về tất cả các sản phẩm trung gian của dự án.",
+      "Cân bằng được các yêu cầu cạnh tranh trong dự án.",
+      "Ước lượng chi phí về các nguồn tài nguyên để hoàn tất một dự án.",
+      "Nhận biết điều gì có thể dẫn đến sai sót và vẫn trong kiểm soát khi có điều trục trặc."
+    ],
+    "correctOption": "Ước lượng chi phí về các nguồn tài nguyên để hoàn tất một dự án."
+  },
+  {
+    "id": "241",
+    "question": "Trong quản lý chi phí dự án, qui trình nào để quản lý chi phí?",
+    "options": [
+      "Nhận biết điều gì có thể dẫn đến sai sót và vẫn trong kiểm soát khi có điều trục trặc.",
+      "Cân bằng được các yêu cầu cạnh tranh trong dự án.",
+      "Tổng kết về tất cả các sản phẩm trung gian của dự án.",
+      "Dự toán chi phí: phân bổ toàn bộ chi phí ước tính vào từng hạng mục công việc để thiết lập một đường mức cho việc đo lường việc thực hiện."
+    ],
+    "correctOption": "Dự toán chi phí: phân bổ toàn bộ chi phí ước tính vào từng hạng mục công việc để thiết lập một đường mức cho việc đo lường việc thực hiện."
+  },
+  {
+    "id": "242",
+    "question": "Theo thống kê chung trên thế giới, có '33% các dự án bị huỷ' bởi nguyên nhân?",
+    "options": [
+      "Dự án có thể mắc sai lầm trong giai đoạn phân tích và thiết kế.",
+      "Người quản lý dự án không phân công rõ nhiệm vụ của từng người.",
+      "Vượt qua giới hạn về thời gian hoặc kinh phí.",
+      "Thiếu hoặc không hiểu rõ các công cụ hỗ trợ cho việc phát triển hệ thống."
+    ],
+    "correctOption": "Vượt qua giới hạn về thời gian hoặc kinh phí."
+  },
+  {
+    "id": "243",
+    "question": "Đường găng trong dự án là gì?",
+    "options": [
+      "Đường ngắn nhất trong sơ đồ mạng.",
+      "Đường dài nhất trong sơ đồ mạng.",
+      "Đường cộng lại tất cả thời gian trong sơ đồ mạng.",
+      "Đường mà các công việc có thời gian hoàn thành dài nhất."
+    ],
+    "correctOption": "Đường dài nhất trong sơ đồ mạng."
+  },
+  {
+    "id": "244",
+    "question": "Số đường găng có trong sơ đồ mạng như thế nào?",
+    "options": [
+      "Trên hai đường găng.",
+      "Mặc định là một găng.",
+      "Một đường găng hoặc nhiều hơn.",
+      "Mặc định là hai đường găng."
+    ],
+    "correctOption": "Một đường găng hoặc nhiều hơn."
+  },
+  {
+    "id": "245",
+    "question": "Sơ đồ mạng PERT (Program Evaluation and Review Technique), là gì?",
+    "options": [
+      "Những qui trình bảo đảm hoàn tất dự án đúng hạn.",
+      "Một danh sách tất cả những gì dự án phải làm.",
+      "Kỹ thuật đánh giá và xem xét chương trình.",
+      "Những quy trình yêu cầu đảm bảo cho dự án."
+    ],
+    "correctOption": "Kỹ thuật đánh giá và xem xét chương trình."
+  },
+  {
+    "id": "246",
+    "question": "WBS (Work breakdown structure) là gì?",
+    "options": [
+      "Một danh sách chi tiết các bước cần để hoàn thành một dự án.",
+      "Trình bày kế hoạch tiến độ, mô tả dưới dạng sơ đồ quan hệ liên tục giữa các công việc.",
+      "Nhân tố tri thức về công việc đang xét trong dự án.",
+      "Quy trình yêu cầu đảm bảo cho dự án được hoàn tất trong sự cho phép của ngân sách."
+    ],
+    "correctOption": "Một danh sách chi tiết các bước cần để hoàn thành một dự án."
+  },
+  {
+    "id": "247",
+    "question": "Để đảm bảo tất cả các công việc dự án đã được bao quát hết, nhà quản lý dự án cần làm gì?",
+    "options": [
+      "Tiến hành ước tính chi phí.",
+      "Xây dựng kế hoạch quản lý rủi ro.",
+      "Dự tính ngân sách, nguồn lực dự án.",
+      "Xây dựng WBS (Work breakdown structure)."
+    ],
+    "correctOption": "Xây dựng WBS (Work breakdown structure)."
+  },
+  {
+    "id": "248",
+    "question": "WBS (Work breakdown structure) là công cụ hữu ích gì cho nhà quản lý dự án?",
+    "options": [
+      "Xác định các công việc cụ thể của dự án.",
+      "Xác định sự bắt đầu của công việc.",
+      "Tiến hành ước tính chi phí.",
+      "Xác định thời gian dự trữ của các công việc."
+    ],
+    "correctOption": "Xác định các công việc cụ thể của dự án."
+  },
+  {
+    "id": "249",
+    "question": "Thành phần nào là thành phần chính của bản tuyên bố phạm vi?",
+    "options": [
+      "Danh sách tất cả những gì dự án phải làm.",
+      "Kỹ thuật đánh giá và xem xét chương trình.",
+      "Kiểm chứng về dự án.",
+      "Xây dựng kế hoạch quản lý rủi ro."
+    ],
+    "correctOption": "Danh sách tất cả những gì dự án phải làm."
+  },
+  {
+    "id": "250",
+    "question": "Phạm vi dự án là gì?",
+    "options": [
+      "Kỹ thuật đánh giá và xem xét chương trình.",
+      "Những qui trình bảo đảm hoàn tất dự án đúng hạn.",
+      "Một danh sách tất cả những gì dự án phải làm.",
+      "Quy trình yêu cầu đảm bảo cho dự án hoàn tất trong sự cho phép của ngân sách."
+    ],
+    "correctOption": "Những qui trình bảo đảm hoàn tất dự án đúng hạn."
+  },
+  {
+    "id": "251",
+    "question": "Mệnh đề nào sau đây về đường găng trong sơ đồ mạng là ĐÚNG?",
+    "options": [
+      "Đường găng là đường ngắn nhất trong sơ đồ mạng.",
+      "Các công việc trên đường găng chứa đựng nhiều rủi ro nhất trong dự án.",
+      "Đường kết nối liên tục tính từ sự kiện đầu đến sự kiện cuối.",
+      "Các công việc trên đường găng không có thời gian dự trữ."
+    ],
+    "correctOption": "Các công việc trên đường găng không có thời gian dự trữ."
+  },
+  {
+    "id": "252",
+    "question": "Mệnh đề nào là ĐÚNG về đường găng trong sơ đồ mạng công việc?",
+    "options": [
+      "Là đường nối các sự kiện găng.",
+      "Các công việc trên đường găng chứa đựng nhiều rủi ro nhất trong dự án.",
+      "Đường kết nối liên tục tính từ sự kiện đầu đến sự kiện cuối.",
+      "Đường găng là đường ngắn nhất trong sơ đồ mạng."
+    ],
+    "correctOption": "Là đường nối các sự kiện găng."
+  },
+  {
+    "id": "253",
+    "question": "Biểu đồ GANTT có nhiều tác dụng, TRỪ trường hợp nào sau đây?",
+    "options": [
+      "Dễ vẽ, dễ nhận biết tiến trình thực tế của từng công việc.",
+      "Không phản ánh mối quan hệ giữa các công việc.",
+      "Phản ánh chính xác mối quan hệ giữa các công việc của dự án phức tạp",
+      "Cho biết độ dài thời gian thực hiện từng công việc và toàn bộ dự án."
+    ],
+    "correctOption": "Phản ánh chính xác mối quan hệ giữa các công việc của dự án phức tạp"
+  },
+  {
+    "id": "254",
+    "question": "Mệnh đề nào sau đây về biểu đồ GANTT là SAI?",
+    "options": [
+      "Dễ vẽ, dễ nhận biết tiến trình thực tế của từng công việc.",
+      "Phản ánh mối quan hệ giữa các công việc.",
+      "Cho biết độ dài thời gian thực hiện từng công việc và toàn bộ dự án.",
+      "Cho biết tiến trình chứa đựng nhiều rủi ro nhất trong dự án"
+    ],
+    "correctOption": "Cho biết tiến trình chứa đựng nhiều rủi ro nhất trong dự án"
+  },
+  {
+    "id": "255",
+    "question": "Nguyên lý nào KHÔNG là nguyên lý cơ bản tạo WBS (Work breakdown structure)?",
+    "options": [
+      "Nội dung công việc trong một mục WBS bằng tổng các công việc dưới nó.",
+      "Những quy trình yêu cầu đảm bảo cho dự án được hoàn tất trong sự cho phép của ngân sách.",
+      "Một mục WBS là nhiệm vụ của chỉ một người, ngay cả khi có nhiều người thực hiện công việc này.",
+      "Một đơn vị công việc chỉ xuất hiện một nơi trong WBS."
+    ],
+    "correctOption": "Những quy trình yêu cầu đảm bảo cho dự án được hoàn tất trong sự cho phép của ngân sách."
+  },
+  {
+    "id": "256",
+    "question": "Nguyên tắc “80-20” thuộc kỹ thuật hay công cụ nào sau đây?",
+    "options": [
+      "PERT (Program Evaluation and Review Technique).",
+      "EMV (Earned value management).",
+      "Phân tích Pareto.",
+      "ISO (International Organization for Standardization)."
+    ],
+    "correctOption": "Phân tích Pareto."
+  },
+  {
+    "id": "257",
+    "question": "Trong công cụ hỗ trợ kiểm tra chi phí, AC (Actual Cost) gọi là “Chi phí thực sự”, vậy chi phí thực sự là gì?",
+    "options": [
+      "Ngân sách chi phí công việc đã lên lịch.",
+      "Tổng cộng các chi phí trực tiếp hay gián tiếp trong việc hoàn tất công việc trong một giai đoạn định trước.",
+      "Chi phí ngân sách cho việc tiến hành công việc.",
+      "Kỹ thuật đo lường sự thực hiện dự án thông qua tích hợp các dữ liệu về chi phí."
+    ],
+    "correctOption": "Tổng cộng các chi phí trực tiếp hay gián tiếp trong việc hoàn tất công việc trong một giai đoạn định trước."
+  },
+  {
+    "id": "258",
+    "question": "Hãy cho biết công thức tính chi phí phát sinh CV (Cost Variance)?",
+    "options": ["EV - AC", "EV / AC", "EV - PV", "EV / PV"],
+    "correctOption": "EV - AC"
+  },
+  {
+    "id": "259",
+    "question": "Hãy cho biết công thức tính biến động lịch SV (Schedule Variance)?",
+    "options": ["EV / AC", "EV - PV", "BAC / CPI", "EV / PV"],
+    "correctOption": "EV - PV"
+  },
+  {
+    "id": "260",
+    "question": "Hãy cho biết công thức tính chỉ số biến động lịch CPI (Cost Performance Index)?",
+    "options": ["EV - PV", "BAC / CPI", "EV / AC", "EV – AC"],
+    "correctOption": "EV / AC"
+  },
+  {
+    "id": "261",
+    "question": "Hãy cho biết công thức tính chỉ số thực hiện lịch SPI (Schedule Performance Index)?",
+    "options": ["EV / AC", "BAC / CPI", "EV - PV", "EV / PV"],
+    "correctOption": "EV / PV"
+  },
+  {
+    "id": "262",
+    "question": "Chọn công thức tính phương sai về chi phí:",
+    "options": ["CV = BCWP - ACWP.", "CV = ACWP - BCWP.", "CV = BCWP - BCWS.", "CV = BCWS - BCWP."],
+    "correctOption": "CV = BCWP - ACWP."
+  },
+  {
+    "id": "263",
+    "question": "Khi phân tích giá trị thu được của dự án và biểu diễn trạng thái của dự án bằng biểu đồ thì số khả năng của trạng thái là:",
+    "options": ["3", "4", "5", "6"],
+    "correctOption": "6"
+  },
+  {
+    "id": "264",
+    "question": "Loại quan hệ nào biểu diễn sự bắt đầu của một công việc phụ thuộc vào sự kết thúc của một công việc khác?",
+    "options": ["Finish-to-Start (FS).", "Finish-to-Finish (FF).", "Start-to-Start (SS).", "Start-to-Finish (SF)."],
+    "correctOption": "Finish-to-Start (FS)."
+  },
+  {
+    "id": "265",
+    "question": "Loại quan hệ nào biểu diễn sự kết thúc của một công việc phụ thuộc vào sự kết thúc của một công việc khác?",
+    "options": ["Finish-to-Start (FS).", "Finish-to-Finish (FF).", "Start-to-Start (SS).", "Start-to-Finish (SF)."],
+    "correctOption": "Finish-to-Finish (FF)."
+  },
+  {
+    "id": "266",
+    "question": "Phương pháp nào sau đây không hỗ trợ lập kế hoạch tiến độ dự án?",
+    "options": ["Biểu đồ Gantt.", "Đường tới hạn.", "PERT.", "COCOMO"],
+    "correctOption": "COCOMO"
+  },
+  {
+    "id": "267",
+    "question": "ACWP (Actual Cost of Work Performed) là:",
+    "options": [
+      "Chi phí dự tính theo ngân sách của công việc theo kế hoạch.",
+      "Chi phí dự tính theo ngân sách của công việc đã hoàn tất.",
+      "Chi phí thực tế của công việc đã hoàn tất.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Chi phí thực tế của công việc đã hoàn tất."
+  },
+  {
+    "id": "268",
+    "question": "Trong phân tích giá trị thu được, chỉ số đến chốt về thời gian là:",
+    "options": [
+      "Thời gian theo lịch trình cho công việc đã được thực hiện.",
+      "Thời gian thực tế để thực hiện công việc đã hoàn thành.",
+      "Thời gian còn lại để hoàn thành các công việc dự án.",
+      "Cả (A) và (B) đều đúng."
+    ],
+    "correctOption": "Cả (A) và (B) đều đúng."
+  },
+  {
+    "id": "269",
+    "question": "STWP (Scheduled Time of Work Performed) là:",
+    "options": [
+      "Thời gian theo lịch trình cho công việc đã được thực hiện.",
+      "Thời gian thực tế để thực hiện công việc đã hoàn thành.",
+      "Thời gian theo lịch trình cho công việc chưa thực hiện.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Thời gian theo lịch trình cho công việc đã được thực hiện."
+  },
+  {
+    "id": "270",
+    "question": "ATWP (Actual Time of Work Performed) là:",
+    "options": [
+      "Thời gian theo lịch trình cho công việc đã được thực hiện.",
+      "Thời gian thực tế để thực hiện công việc đã hoàn thành.",
+      "Thời gian theo lịch trình cho công việc chưa thực hiện.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Thời gian thực tế để thực hiện công việc đã hoàn thành."
+  },
+  {
+    "id": "271",
+    "question": "Chỉ số thực hiện về lịch biểu bằng 1 khi:",
+    "options": [
+      "Tiến độ thực hiện công việc của dự án trễ hơn so với kế hoạch.",
+      "Tiến độ thực hiện công việc của dự án sớm hơn so với kế hoạch.",
+      "Tiến độ thực hiện công việc của dự án đúng theo kế hoạch đề ra.",
+      "Cả (A), (B) và (C) đều sai."
+    ],
+    "correctOption": "Tiến độ thực hiện công việc của dự án đúng theo kế hoạch đề ra."
+  },
+  {
+    "id": "272",
+    "question": "Chỉ số thực hiện về lịch biểu lớn hơn 1 khi:",
+    "options": [
+      "Tiến độ thực hiện công việc của dự án trễ hơn so với kế hoạch.",
+      "Tiến độ thực hiện công việc của dự án sớm hơn so với kế hoạch.",
+      "Tiến độ thực hiện công việc của dự án đúng theo kế hoạch đề ra.",
+      "Cả (A), (B) và (C) đều sai."
+    ],
+    "correctOption": "Tiến độ thực hiện công việc của dự án sớm hơn so với kế hoạch."
+  },
+  {
+    "id": "273",
+    "question": "Chỉ số thực hiện về lịch biểu nhỏ hơn 1 khi:",
+    "options": [
+      "Tiến độ thực hiện công việc của dự án trễ hơn so với kế hoạch.",
+      "Tiến độ thực hiện công việc của dự án sớm hơn so với kế hoạch.",
+      "Tiến độ thực hiện công việc của dự án đúng theo kế hoạch đề ra.",
+      "Cả (A), (B) và (C) đều sai."
+    ],
+    "correctOption": "Tiến độ thực hiện công việc của dự án trễ hơn so với kế hoạch."
+  },
+  {
+    "id": "274",
+    "question": "Chỉ số thực hiện về chi phí bằng 1 khi:",
+    "options": [
+      "Chi phí thực hiện công việc bằng chi phí theo kế hoạch.",
+      "Chi phí thực hiện công việc lớn hơn chi phí theo kế hoạch.",
+      "Chi phí thực hiện công việc nhỏ hơn chi phí theo kế hoạch.",
+      "Cả (A), (B) và (C) đều sai."
+    ],
+    "correctOption": "Chi phí thực hiện công việc bằng chi phí theo kế hoạch."
+  },
+  {
+    "id": "275",
+    "question": "Một dự án phát triển phần mềm ước tính hoàn tất trong 3 tháng với chi phí 30.000$. Khi dự án còn 1 tháng để kết thúc, 60% công việc của dự án đã hoàn tất, 16.000$ đã dùng cho các công việc. Phương sai chi phí (CV) là:",
+    "options": ["-2.000$", "4.000$", "-4.000$", "2.000$"],
+    "correctOption": "2.000$"
+  },
+  {
+    "id": "276",
+    "question": "Một dự án phát triển phần mềm ước tính hoàn tất trong 3 tháng với chi phí 30.000$. Khi dự án còn 1 tháng để kết thúc, 60% công việc của dự án đã hoàn tất, 16.000$ đã dùng cho các công việc. Phương sai lịch biểu (SV) là:",
+    "options": ["2.000$", "4.000$", "-4.000$", "-2.000$"],
+    "correctOption": "-2.000$"
+  },
+  {
+    "id": "277",
+    "question": "Kết quả của quá trình nhận kết quả kiểm tra dự án là:",
+    "options": [
+      "Khách hàng chấp nhận kết quả chuyển giao.",
+      "Hệ thống thông tin quản lý dự án chính xác hơn.",
+      "Kế hoạch quản lý phạm vi đầy đủ hơn.",
+      "Ước lượng về lịch biểu chính xác hơn."
+    ],
+    "correctOption": "Khách hàng chấp nhận kết quả chuyển giao."
+  },
+  {
+    "id": "278",
+    "question": "Trình tự các bước xây dựng kế hoạch dự án là:",
+    "options": [
+      "Lập WBS → ước lượng → lập lịch biểu → lập WBS.",
+      "Ước lượng → lập lịch biểu → lập WBS.",
+      "Lập lịch biểu → lập WBS → ước lượng.",
+      "Ước lượng → lập lịch biểu → lập WBS."
+    ],
+    "correctOption": "Ước lượng → lập lịch biểu → lập WBS."
+  },
+  {
+    "id": "279",
+    "question": "Yếu tố đầu vào nào được dùng để phát triển điều lệ dự án?",
+    "options": ["Tình hình kinh doanh.", "Báo cáo công việc dự án.", "Hợp đồng.", "Cả (A), (B) và (C) đều đúng."],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "280",
+    "question": "Phạm vi dự án là:",
+    "options": [
+      "Những công việc không thuộc về dự án.",
+      "Ranh giới giữa các công việc cần phải thực hiện để dự án đạt được mục tiêu.",
+      "Những công việc cần phải thực hiện để dự án đạt được mục tiêu.",
+      "Cả (A), (B) và (C) đều sai."
+    ],
+    "correctOption": "Những công việc cần phải thực hiện để dự án đạt được mục tiêu."
+  },
+  {
+    "id": "281",
+    "question": "Các ràng buộc của quản lý dự án được ước lượng trước khi lập kế hoạch?",
+    "options": [
+      "Phạm vi, thời gian và chi phí.",
+      "Chi phí, phạm vi và rủi ro.",
+      "Chi phí, phạm vi và nhu cầu nhân lực.",
+      "Cả (A), (B) và (C) đều sai."
+    ],
+    "correctOption": "Phạm vi, thời gian và chi phí."
+  },
+  {
+    "id": "282",
+    "question": "Người quản lý dự án nên thực hiện hoạt động gì để xác định được tất cả các công việc của dự án?",
+    "options": [
+      "Lập báo cáo nghiên cứu sơ bộ.",
+      "Lập cấu trúc phân chia công việc.",
+      "Lập kế hoạch quản lý rủi ro.",
+      "Phân công công việc rõ ràng."
+    ],
+    "correctOption": "Lập cấu trúc phân chia công việc."
+  },
+  {
+    "id": "283",
+    "question": "Người quản lý dự án nên thực hiện hoạt động gì để xác định được tất cả các công việc của dự án?",
+    "options": [
+      "Lập báo cáo nghiên cứu sơ bộ.",
+      "Lập cấu trúc phân chia công việc.",
+      "Lập kế hoạch quản lý rủi ro.",
+      "Phân công công việc rõ ràng."
+    ],
+    "correctOption": "Lập cấu trúc phân chia công việc."
+  },
+  {
+    "id": "284",
+    "question": "Phạm vi dự án phần mềm không đề cập đến:",
+    "options": [
+      "Các kỹ thuật được sử dụng để tạo ra sản phẩm phần mềm.",
+      "Các công việc liên quan đến việc tạo ra sản phẩm phần mềm",
+      "Thời gian và chi phí phát triển phần mềm",
+      "Các quá trình được sử dụng để tạo ra sản phẩm phần mềm"
+    ],
+    "correctOption": "Các kỹ thuật được sử dụng để tạo ra sản phẩm phần mềm."
+  },
+  {
+    "id": "285",
+    "question": "Kỹ thuật thu thập yêu cầu phần mềm nào hiệu quả nhất nhưng cần rất nhiều thời gian để thực hiện?",
+    "options": ["Xem xét phần mềm hiện có.", "Phỏng vấn.", "Họp nhóm.", "Ấn định công việc tạm thời."],
+    "correctOption": "Phỏng vấn."
+  },
+  {
+    "id": "286",
+    "question": "Chọn ba ràng buộc chính của quản lý dự án, thời gian và gì là giải pháp?",
+    "options": [
+      "Phạm vi, thời gian và chi phí.",
+      "Phạm vi, thời gian và công nghệ.",
+      "Phạm vi, thời gian và tài nguyên.",
+      "Phạm vi, dự án phần mềm tin liên lạc."
+    ],
+    "correctOption": "Phạm vi, thời gian và chi phí."
+  },
+  {
+    "id": "287",
+    "question": "Yêu cầu cụ thể đặt ra đối với người quản lý dự án là:",
+    "options": [
+      "Đạt 3 ràng buộc của dự án.",
+      "Quan hệ tốt với quản lý cấp cao, thu nhận và thúc đẩy nhân viên, cân nhắc các mục tiêu dự án.",
+      "Đảm bảo đủ các nguồn lực, thu nhận và thúc đẩy nhân viên, cân nhắc các mục tiêu dự án.",
+      "Giảm rủi ro, thu nhận và thúc đẩy nhân viên, cân nhắc các mục tiêu dự án."
+    ],
+    "correctOption": "Đảm bảo đủ các nguồn lực, thu nhận và thúc đẩy nhân viên, cân nhắc các mục tiêu dự án."
+  },
+  {
+    "id": "288",
+    "question": "Yếu tố nào sau đây là yếu tố quyết định sự thành công của dự án?",
+    "options": ["Quy trình.", "Kỹ thuật.", "Con người.", "Sản phẩm."],
+    "correctOption": "Con người."
+  },
+  {
+    "id": "289",
+    "question": "Hãy chọn bốn lĩnh vực chính trong quản lý dự án:",
+    "options": [
+      "Quản lý phạm vi, quản lý thời gian, quản lý chi phí và quản lý tích hợp.",
+      "Quản lý phạm vi, quản lý thời gian, quản lý chi phí và quản lý rủi ro.",
+      "Quản lý phạm vi, quản lý thời gian, quản lý chi phí và quản lý chất lượng.",
+      "Quản lý phạm vi, quản lý thời gian, quản lý chi phí và quản lý nhân sự."
+    ],
+    "correctOption": "Quản lý phạm vi, quản lý thời gian, quản lý chi phí và quản lý chất lượng."
+  },
+  {
+    "id": "290",
+    "question": "Dự án phần mềm thường gặp những khó khăn nào?",
+    "options": [
+      "Sản phẩm của dự án phần mềm ít mang tính hữu hình.",
+      "Các kỹ thuật công nghệ thay đổi rất nhanh.",
+      "Việc giữ chân được nguồn nhân lực chất lượng cao là không dễ dàng.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "291",
+    "question": "Khách hàng đưa ra yêu cầu thay đổi sau khi đội dự án đã thực hiện xong giai đoạn thiết kế, với vai trò là người quản lý dự án thì phương pháp tiếp cận tốt nhất là:",
+    "options": [
+      "Ước tính tác động của thay đổi về chi phí, lịch trình và phê duyệt trước khi tiến hành.",
+      "Phân tích ảnh hưởng chi tiết đến chi phí, lịch trình, đồng thời triệu tập cuộc họp đội dự án.",
+      "Thuyết phục khách hàng không thay đổi yêu cầu.",
+      "Đưa ra những thay đổi then chốt bất chấp chi phí và ảnh hưởng của nó, đồng thời thông báo cho quản lý cấp cao."
+    ],
+    "correctOption": "Ước tính tác động của thay đổi về chi phí, lịch trình và phê duyệt trước khi tiến hành."
+  },
+  {
+    "id": "292",
+    "question": ".....là quá trình xem xét tất cả các đề xuất thay đổi, phê duyệt các đề xuất thay đổi và thực hiện các thay đổi.",
+    "options": ["Quản lý thay đổi.", "Quản lý yêu cầu.", "Quản lý thay đổi tích hợp.", "Cả (A), (B) và (C) đều sai."],
+    "correctOption": "Quản lý thay đổi tích hợp."
+  },
+  {
+    "id": "293",
+    "question": "Khi thành lập đội dự án, người quản lý dự án cần phải biết kỹ năng của từng thành viên trong lại để:",
+    "options": [
+      "Xác định đội trưởng.",
+      "Phân công công việc.",
+      "Xác định ngân sách của dự án.",
+      "Xác định thời gian thực hiện dự án."
+    ],
+    "correctOption": "Phân công công việc."
+  },
+  {
+    "id": "294",
+    "question": "Nhóm quy trình quản lý dự án nào được lập đi lập lại trong suốt vòng đời dự án?",
+    "options": [
+      "Khởi động, lập kế hoạch, thực hiện.",
+      "Khởi động, lập kế hoạch, kiểm soát.",
+      "Lập kế hoạch, kiểm soát, kết thúc.",
+      "Lập kế hoạch, thực hiện, kiểm soát."
+    ],
+    "correctOption": "Lập kế hoạch, thực hiện, kiểm soát."
+  },
+  {
+    "id": "295",
+    "question": "Dự án nào sau đây không phải là một dự án phần mềm?",
+    "options": [
+      "Dự án xây dựng phần mềm thi trắc nghiệm trực tuyến.",
+      "Dự án triển khai cải cách thủ tục hành chính trên địa bàn tỉnh An Giang.",
+      "Dự án xây dựng phần mềm quản lý nhân sự.",
+      "Cả (A), (B) và (C) đều sai."
+    ],
+    "correctOption": "Dự án triển khai cải cách thủ tục hành chính trên địa bàn tỉnh An Giang."
+  },
+  {
+    "id": "296",
+    "question": "Yếu tố nào sau đây là đầu vào của hoạt động xây dựng WBS của dự án phần mềm?",
+    "options": [
+      "Quy trình phát triển phần mềm.",
+      "Báo cáo phạm vi dự án.",
+      "Báo cáo yêu cầu.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "297",
+    "question": "Hoạt động chính ở giai đoạn khởi động dự án là:",
+    "options": [
+      "Hoạch định nguồn nhân lực dự án.",
+      "Phát triển kế hoạch dự án.",
+      "Phát triển hoạch định dự án.",
+      "Lập báo cáo nghiên cứu khả thi."
+    ],
+    "correctOption": "Lập báo cáo nghiên cứu khả thi."
+  },
+  {
+    "id": "298",
+    "question": "Kỹ thuật thu thập yêu cầu phần mềm nào để thực hiện và thông tin thu thập được sẽ khách quan và chính xác?",
+    "options": ["Xem xét phần mềm hiện có.", "Xem xét tài liệu.", "Họp nhóm.", "Phỏng vấn."],
+    "correctOption": "Phỏng vấn."
+  },
+  {
+    "id": "299",
+    "question": "Phản ứng với sự kiện rủi ro không được xác định trước về việc xảy ra của nó được gọi là:",
+    "options": ["Phản ứng hoạt động hiệu quả", "Phản ứng nhanh", "Phản ứng giảm thiểu rủi ro", "Phản ứng dự phòng"],
+    "correctOption": "Phản ứng dự phòng"
+  },
+  {
+    "id": "300",
+    "question": "Trong phương pháp đường găng của mạng công việc, slack:",
+    "options": [
+      "Bằng 0 nếu hoạt động đó nằm trên đường găng.",
+      "Là thời gian tối đa một công việc có thể kết thúc trễ mà không gây chậm trễ đến dự án.",
+      "Cả (A) và (B) đều đúng.",
+      "Cả (A) và (B) đều sai."
+    ],
+    "correctOption": "Cả (A) và (B) đều đúng."
+  },
+  {
+    "id": "301",
+    "question": "Mục tiêu chính của giám sát dự án là:",
+    "options": [
+      "Ghi nhận và phát hiện khi có những thay đổi so với kế hoạch.",
+      "Ghi nhận và báo cáo cho quản lý dự án về các hoạt động của dự án.",
+      "Ghi nhận và phát hiện khi có những sai lệch so với kế hoạch.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+
+  {
+    "id": "302",
+    "question": "Yếu tố đầu vào nào được dùng để phát triển điều lệ dự án?",
+    "options": ["Tình huống kinh doanh.", "Báo cáo công việc dự án", "Hợp đồng.", "Cả (a) (b) (c) đều đúng"],
+    "correctOption": "Cả (a) (b) (c) đều đúng"
+  },
+  {
+    "id": "303",
+    "question": "Phát biểu đúng về hệ thống giám sát:",
+    "options": [
+      "Hệ thống kết nối trực tiếp giữa lập tiến trình kế hoạch và tiến trình kiểm soát.",
+      "Hệ thống mà nếu không thu thập và thông báo thông tin quan trọng thì sự kiểm soát có thể bị lỗi hoặc nhầm lẫn.",
+      "Cả (A), (B) đều đúng.",
+      "Hệ thống thông tin quản lý."
+    ],
+    "correctOption": "Cả (A), (B) đều đúng."
+  },
+  {
+    "id": "304",
+    "question": "Lý thuyết về nhu cầu đã được thỏa mãn của McClelland tập trung vào nhu cầu chính nào?",
+    "options": ["Liên minh.", "Quyền lực.", "Thành tích.", "Cả (A), (B) và (C) đều đúng."],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "305",
+    "question": "Trong số tất cả các xung đột có thể xảy ra bất lợi nhất đối với hiệu quả và hiệu suất của đội dự án?",
+    "options": [
+      "Xung đột lịch trình.",
+      "Những mâu thuẫn cá nhân",
+      "Những người chống đối dự án.",
+      "Các thỏa hiệp về kỹ thuật."
+    ],
+    "correctOption": "Xung đột lịch trình."
+  },
+  {
+    "id": "306",
+    "question": "Phương pháp PERT được phát triển bởi:",
+    "options": ["Hải quân Hoa Kỳ.", "Không quân Hoa Kỳ.", "Chính phủ Hoa Kỳ.", "Cả (A), (B) và (C) đều sai."],
+    "correctOption": "Hải quân Hoa Kỳ."
+  },
+  {
+    "id": "307",
+    "question": "Chọn thứ tự đúng của các bước ước lượng điểm chức năng:",
+    "options": [
+      "Tính điểm chức năng điều chỉnh, đánh giá yếu tố phức tạp kỹ thuật, tính điểm chức năng.",
+      "Tính điểm chức năng, đánh giá yếu tố phức tạp kỹ thuật, tính điểm chức năng điều chỉnh.",
+      "Đánh giá yếu tố phức tạp kỹ thuật, tính điểm chức năng điều chỉnh, tính điểm chức năng.",
+      "Tính điểm chức năng điều chỉnh, tính điểm chức năng, đánh giá yếu tố phức tạp kỹ thuật."
+    ],
+    "correctOption": "Tính điểm chức năng, đánh giá yếu tố phức tạp kỹ thuật, tính điểm chức năng điều chỉnh."
+  },
+  {
+    "id": "308",
+    "question": "Quá trình giám sát dự án được thực hiện khi nào?",
+    "options": [
+      "Khi kết thúc dự án.",
+      "Thường xuyên và liên tục.",
+      "Khi còn có thể khắc phục.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Thường xuyên và liên tục."
+  },
+  {
+    "id": "309",
+    "question": "Phương pháp phân tích giá trị thu được có thể tính được:",
+    "options": [
+      "Mức độ chênh lệch về chi phí.",
+      "Mức độ chênh lệch về lịch biểu.",
+      "Chỉ số hiệu năng.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "310",
+    "question": "Trong tháp nhu cầu của Maslow, con người sẽ có những phản ứng lại đối với những dấu hiệu nguy hiểm từ đó họ sẽ phát sinh nhu cầu nào?",
+    "options": ["Nhu cầu được tôn trọng.", "Nhu cầu tự hoàn thiện.", "Nhu cầu an toàn.", "Nhu cầu giao tiếp."],
+    "correctOption": "Nhu cầu an toàn."
+  },
+  {
+    "id": "311",
+    "question": "Ước lượng phần mềm trong giai đoạn nào sau đây sẽ có sai số nhiều nhất?",
+    "options": ["Phân tích.", "Thực hiện.", "Định nghĩa.", "Cả (A), (B) và (C) đều sai."],
+    "correctOption": "Cả (A), (B) và (C) đều sai."
+  },
+  {
+    "id": "312",
+    "question": "Chọn thuật ngữ tương ứng với phát biểu “đường dài nhất đi từ đỉnh bắt đầu đến đỉnh kết thúc của sơ đồ mạng công việc”:",
+    "options": ["Đường chart.", "Đường Gantt.", "Đường Găng.", "Đường Slack."],
+    "correctOption": "Đường Găng."
+  },
+  {
+    "id": "313",
+    "question": "Thành phần nào sau đây không phải chức năng?",
+    "options": ["Các tập tin mã lệnh.", "Đầu ra ngoại vi.", "Các giao diện ngoại vi.", "Các đầu vào ngoại vi."],
+    "correctOption": "Các tập tin mã lệnh."
+  },
+  {
+    "id": "314",
+    "question": "Đối với dự án phần mềm phức tạp:",
+    "options": [
+      "Người quản lý có thể tự lập kế hoạch dự án.",
+      "Người quản lý có thể nhớ đầy đủ công việc phải thực hiện.",
+      "Người quản lý không cần lập kế hoạch quản lý phạm vi.",
+      "Cả (A), (B) và (C) đều sai."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều sai."
+  },
+  {
+    "id": "315",
+    "question": "Thông tin đầu vào chính yếu của phương pháp phân tích giá trị thu được là:",
+    "options": [
+      "Tổng chi phí cho các công việc đã thực hiện.",
+      "Tổng thời gian từ lúc bắt đầu dự án đến thời gian phân tích.",
+      "Tổng thể khối lượng công việc của dự án đã hoàn thành.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "316",
+    "question": "Các rủi ro được sắp xếp theo yếu tố nào sau đây:",
+    "options": [
+      "Xác suất xảy ra và kinh phí ứng phó.",
+      "Mức độ tác động và kinh phí ứng phó.",
+      "Xác suất xảy ra và mức độ tác động.",
+      "Mức độ tác động và kế hoạch ứng phó."
+    ],
+    "correctOption": "Xác suất xảy ra và mức độ tác động."
+  },
+  {
+    "id": "317",
+    "question": "Kỹ thuật nhận diện rủi ro nào phân tích thông tin của các dự án đã qua?",
+    "options": ["Hỏi ý kiến chuyên gia.", "Xem xét tài liệu.", "Động não.", "Cả (a)(b)(c) đều sai."],
+    "correctOption": "Xem xét tài liệu."
+  },
+  {
+    "id": "37",
+    "question": "Những nguồn lực cơ bản cần hoạch định ngân sách là:",
+    "options": [
+      "Nguyên vật liệu và nguồn nhân lực.",
+      "Chiến lược quảng cáo.",
+      "Vật lực và nguồn nhân lực.",
+      "Nguyên vật liệu, nhiên liệu, và thiết bị."
+    ],
+    "correctOption": "Nguyên vật liệu, nhiên liệu, và thiết bị."
+  },
+  {
+    "id": "318",
+    "question": "Các dự án sẽ có xu hướng thất bại nếu người quản lý dự án lệ thuộc quá nhiều vào:",
+    "options": [
+      "Quyền lực, tiền bạc, kỷ luật (phạt).",
+      "Quyền lực, tiền bạc, kinh nghiệm.",
+      "Quyền lực, công nghệ, kỷ luật (phạt).",
+      "Quyền lực, sự thăng tiến, kỷ luật (phạt)."
+    ],
+    "correctOption": "Quyền lực, tiền bạc, kỷ luật (phạt)."
+  },
+  {
+    "id": "319",
+    "question": "Phương pháp ước lượng nào sau đây có ưu điểm là không ước lượng quá mức kinh phí?",
+    "options": ["Lấy ý kiến chuyên gia.", "Trả giá để thắng.", "Từ trên xuống.", "Quy tắc Parkinson."],
+    "correctOption": "Quy tắc Parkinson."
+  },
+  {
+    "id": "320",
+    "question": "Rủi ro về con người của dự án phần mềm có thể xuất phát từ:",
+    "options": ["Người dùng.", "Đội dự án.", "Ban quản lý dự án.", "Cả (A), (B) và (C) đều đúng."],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "321",
+    "question": "Chọn thứ tự đúng của các bước ước lượng điểm trường hợp sử dụng:",
+    "options": [
+      "Tính điểm trường hợp sử dụng, đánh giá yếu tố phức tạp kỹ thuật và môi trường, tính điểm trường hợp sử dụng điều chỉnh.",
+      "Đánh giá yếu tố phức tạp kỹ thuật, tính điểm trường hợp sử dụng điều chỉnh, tính điểm trường hợp sử dụng.",
+      "Tính điểm trường hợp sử dụng điều chỉnh, đánh giá yếu tố phức tạp kỹ thuật, tính điểm trường hợp sử dụng.",
+      "Tính điểm trường hợp sử dụng điều chỉnh, tính điểm trường hợp sử dụng, đánh giá yếu tố phức tạp kỹ thuật."
+    ],
+    "correctOption": "Tính điểm trường hợp sử dụng, đánh giá yếu tố phức tạp kỹ thuật và môi trường, tính điểm trường hợp sử dụng điều chỉnh."
+  },
+  {
+    "id": "322",
+    "question": "Khi phát triển đội dự án, những ai cần tham gia các khóa huấn luyện nhất?",
+    "options": ["Thành viên mới.", "Người dùng.", "Đội dự án.", "Trưởng nhóm."],
+    "correctOption": "Thành viên mới."
+  },
+  {
+    "id": "323",
+    "question": "Người quản lý dự án phải thực hiện công việc gì khi kết thúc dự án?",
+    "options": [
+      "Đánh giá dự án, đánh giá nhóm dự án, đánh giá từng thành viên dự án.",
+      "Nhận được văn bản chấp nhận kết thúc dự án.",
+      "Chấm dứt việc sử dụng và bàn giao trang thiết bị.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "324",
+    "question": "Quản lý rủi ro có thể được tích hợp vào quy trình phát triển phần mềm nào sau đây:",
+    "options": ["Mô hình prototype.", "Mô hình chữ V.", "Mô hình xoắn ốc.", "Mô hình thác nước."],
+    "correctOption": "Mô hình xoắn ốc."
+  },
+  {
+    "id": "325",
+    "question": "Phát biểu đúng về phương sai chi phí:",
+    "options": [
+      "Là sự chênh lệch về chi phí hoàn thành các công việc so với chi phí theo kế hoạch.",
+      "Có thể nhận giá trị dương hoặc âm hoặc bằng 0.",
+      "Cả (A) và (B) đều đúng.",
+      "Là sự chênh lệch về giá trị thu được của các công việc so với chi phí theo kế hoạch."
+    ],
+    "correctOption": "Cả (A) và (B) đều đúng."
+  },
+  {
+    "id": "326",
+    "question": "Đối tượng của quản lý nguồn nhân lực là:",
+    "options": [
+      "Chỉ bao gồm những nhân viên cấp dưới.",
+      "Người lao động trong tổ chức và các vấn đề liên quan đến họ.",
+      "Chỉ bao gồm những người lãnh đạo cấp cao trong tổ chức.",
+      "Người lao động trong tổ chức."
+    ],
+    "correctOption": "Người lao động trong tổ chức và các vấn đề liên quan đến họ."
+  },
+  {
+    "id": "327",
+    "question": "Trong phương pháp ước lượng điểm trường hợp sử dụng, yếu tố nào sau đây là yếu tố phức tạp?",
+    "options": [
+      "Tính khả chuyển.",
+      "Tính bảo mật cao.",
+      "Khả năng tái sử dụng mã nguồn.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "328",
+    "question": "Dữ liệu nào có thể lý giải số liệu giám sát dự án?",
+    "options": [
+      "Báo cáo so sánh với các dữ liệu thu thập trước đó.",
+      "Khuynh hướng tiếp theo của tiến độ dự án.",
+      "Các kế hoạch, biểu đồ, và bảng biểu nên được cập nhật theo thời gian.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "329",
+    "question": "Công cụ phổ biến nhất để thiết lập sơ đồ Gantt?",
+    "options": ["Microsoft Word.", "Microsoft Project.", "Microsoft Visio.", "Bảng."],
+    "correctOption": "Microsoft Project."
+  },
+  {
+    "id": "330",
+    "question": "Yếu tố nào sau đây có thể góp phần ngăn cản nhận diện rủi ro?",
+    "options": ["Kỹ thuật.", "Xã hội và tổ chức.", "Công nghệ.", "Cả (A), (B) và (C) đều đúng."],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "331",
+    "question": "Mô hình ước lượng nỗ lực CG OMO có thể áp dụng cho các loại dự án phần mềm nào?",
+    "options": [
+      "Dự án tổ chức tương đối nhỏ.",
+      "Dự án nhúng.",
+      "Dự án bên trong, trung gian.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "332",
+    "question": "Phương pháp nào sau đây là phương pháp ước lượng nỗ lực?",
+    "options": ["COCOMO", "Tương tự", "Từ dưới lên", "Từ trên xuống"],
+    "correctOption": "COCOMO"
+  },
+  {
+    "id": "333",
+    "question": "Phát biểu đúng về kiểm soát rủi ro:",
+    "options": [
+      "Là hoạt động nhận diện các rủi ro có thể xảy ra và đánh giá mức độ tác động của chúng.",
+      "Là phát triển kế hoạch quản lý rủi ro và kế hoạch ứng phó khi rủi ro xảy ra.",
+      "Cả (a) và (b) đều đúng.",
+      "Cả (a) và (b) đều sai."
+    ],
+    "correctOption": "Cả (a) và (b) đều đúng."
+  },
+  {
+    "id": "334",
+    "question": "Đầu ra của hoạt động kiểm tra phạm vi dự án:",
+    "options": [
+      "Các báo cáo được cập nhật.",
+      "Các yêu cầu thay đổi.",
+      "Phạm vi chuyển giao được chấp nhận.",
+      "Cả (a) (b) (c) đều đúng."
+    ],
+    "correctOption": "Phạm vi chuyển giao được chấp nhận."
+  },
+  {
+    "id": "335",
+    "question": "Trong phương pháp sơ đồ mạng công việc, dạng mạng nào biểu diễn công việc trên nút?",
+    "options": ["Dạng AOA", "Dạng AON", "Cả (A) và (B) đều đúng.", "Cả (A) và (B) đều sai."],
+    "correctOption": "AON"
+  },
+  {
+    "id": "336",
+    "question": "Chọn ba rằng buộc chính của quản lý dự án:",
+    "options": [
+      "Phạm vi, thời gian và chi phí.",
+      "Phạm vi, thời gian và tài nguyên.",
+      "Phạm vi, thời gian và giải pháp.",
+      "Phạm vi, thời gian và công nghệ."
+    ],
+    "correctOption": "Phạm vi, thời gian và chi phí."
+  },
+  {
+    "id": "337",
+    "question": "Nguyên nhân này sinh các mâu thuẫn nội bộ của các dự án phần mềm là:",
+    "options": [
+      "Thiếu kế hoạch.",
+      "Xung đột về công nghệ.",
+      "Thiếu sự giao tiếp, thông tin liên lạc.",
+      "Kỹ thuật phát triển quá nhanh."
+    ],
+    "correctOption": "Thiếu sự giao tiếp, thông tin liên lạc."
+  },
+  {
+    "id": "338",
+    "question": "Yêu cầu cụ thể đặt ra đối với người quản lý dự án là:",
+    "options": [
+      "Đạt 3 ràng buộc của dự án.",
+      "Quan hệ tốt với quản lý cấp cao, thu nhận và thúc đẩy nhân viên, cân nhắc các mục tiêu dự án.",
+      "Đảm bảo đủ các nguồn lực, thu nhận và thúc đẩy nhân viên, cân nhắc các mục tiêu dự án.",
+      "Giảm rủi ro, thu nhận và thúc đẩy nhân viên, cân nhắc các mục tiêu dự án."
+    ],
+    "correctOption": "Đảm bảo đủ các nguồn lực, thu nhận và thúc đẩy nhân viên, cân nhắc các mục tiêu dự án."
+  },
+  {
+    "id": "339",
+    "question": "Tác động của rủi ro đến dự án phần mềm có thể là:",
+    "options": [
+      "Dự án bị chậm trễ hoặc giảm chất lượng.",
+      "Dự án bị thất bại hoặc bị trễ hạn.",
+      "Dự án sẽ được thuận lợi nhiều hơn.",
+      "Cả (A) và (B) đều đúng."
+    ],
+    "correctOption": "Cả (A) và (B) đều đúng."
+  },
+  {
+    "id": "340",
+    "question": "Phát biểu đúng về danh sách công việc:",
+    "options": [
+      "Là danh sách các hoạt động hay công việc được đưa vào lịch trình dự án.",
+      "Đây là danh sách bao gồm tên công việc, số hiệu nhận dạng.",
+      "Cả (A) và (B) đều sai.",
+      "Cả (A) và (B) đều đúng."
+    ],
+    "correctOption": "Cả (A) và (B) đều đúng."
+  },
+  {
+    "id": "341",
+    "question": "Rủi ro có thể xuất phát từ đội dự án vì:",
+    "options": [
+      "Năng suất làm việc không cao.",
+      "Nhân viên bất mãn.",
+      "Nhân viên thiếu kinh nghiệm và chưa tận tâm.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "342",
+    "question": "Yếu tố nào sau đây là yếu tố quyết định sự thành công của dự án?",
+    "options": ["Quy trình", "Kỹ thuật.", "Con người.", "Sản phẩm."],
+    "correctOption": "Con người."
+  },
+  {
+    "id": "343",
+    "question": "Hãy chọn bốn lĩnh vực chính trong quản lý dự án:",
+    "options": [
+      "Quản lý phạm vi, quản lý thời gian, quản lý chi phí và quản lý tích hợp.",
+      "Quản lý phạm vi, quản lý thời gian, quản lý chi phí và quản lý rủi ro.",
+      "Quản lý phạm vi, quản lý thời gian, quản lý chi phí và quản lý chất lượng.",
+      "Quản lý phạm vi, quản lý thời gian, quản lý chi phí và quản lý nhân sự."
+    ],
+    "correctOption": "Quản lý phạm vi, quản lý thời gian, quản lý chi phí và quản lý chất lượng."
+  },
+  {
+    "id": "344",
+    "question": "Dự án phần mềm thường gặp những khó khăn nào?",
+    "options": [
+      "Sản phẩm của dự án phần mềm ít mang tính hữu hình.",
+      "Các kỹ thuật/công nghệ thay đổi rất nhanh.",
+      "Việc giữ chân được nguồn nhân lực chất lượng cao là không dễ dàng.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "345",
+    "question": "Trong phương pháp sơ đồ mạng công việc, dạng mạng nào biểu diễn công việc trên mũi tên?",
+    "options": ["Dạng AOA.", "Cả (A) và (B) đều sai.", "Dạng AON.", "Cả (A) và (B) đều đúng."],
+    "correctOption": "Dạng AOA."
+  },
+  {
+    "id": "346",
+    "question": "Chọn thứ tự đúng các bước thu thập yêu cầu phần mềm:",
+    "options": [
+      "Thu thập yêu cầu, phân tích yêu cầu, đánh giá yêu cầu, đặc tả yêu cầu.",
+      "Thu thập yêu cầu, đặc tả yêu cầu, phân tích yêu cầu, đánh giá yêu cầu.",
+      "Thu thập yêu cầu, phân tích yêu cầu, đặc tả yêu cầu, đánh giá yêu cầu.",
+      "Thu thập yêu cầu, đánh giá yêu cầu, phân tích yêu cầu, đặc tả yêu cầu."
+    ],
+    "correctOption": "Thu thập yêu cầu, phân tích yêu cầu, đặc tả yêu cầu, đánh giá yêu cầu."
+  },
+  {
+    "id": "347",
+    "question": "Các dự án sẽ thành công hơn nếu người quản lý dự án gây ảnh hưởng đến các thành viên bằng:",
+    "options": ["Tiền thưởng.", "Sự thử thách của công việc.", "Kỷ luật.", "Quyền lực."],
+    "correctOption": "Sự thử thách của công việc."
+  },
+  {
+    "id": "348",
+    "question": "Nguyên nhân dẫn đến thất bại của một dự án phần mềm có thể xảy ra trong giai đoạn nào của dự án:",
+    "options": ["Lên kế hoạch.", "Thực hiện.", "Khởi động.", "Cả (A), (B) và (C) đều đúng."],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "349",
+    "question": "Yếu tố nào sau đây không phải là một trong các rằng buộc của quản lý dự án:",
+    "options": ["Phạm vi.", "Thời gian.", "Con người.", "Chi phí."],
+    "correctOption": "Con người."
+  },
+  {
+    "id": "350",
+    "question": "Chiến lược nào sau đây được dùng ứng phó với các rủi ro:",
+    "options": ["Chấp nhận.", "Giảm nhẹ.", "Tránh.", "Cả (A), (B) và (C) đều đúng."],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "351",
+    "question": "Khách hàng đưa ra yêu cầu thay đổi sau khi đội dự án đã thực hiện xong giai đoạn thiết kế. với vai trò là người quản lý dự án thì phương pháp tiếp cận tốt nhất là:",
+    "options": [
+      "Ước tính tác động của thay đổi về chi phí, lịch trình và phê duyệt trước khi tiến hành.",
+      "Phân tích ảnh hưởng chi tiết đến chi phí, lịch trình, đồng thời triệu tập cuộc họp đội dự án.",
+      "Thuyết phục khách hàng không thay đổi yêu cầu.",
+      "Đưa ra những thay đổi then chốt bất chấp chi phí và ảnh hưởng của nó, đồng thời thông báo cho quản lý cấp cao."
+    ],
+    "correctOption": "Ước tính tác động của thay đổi về chi phí, lịch trình và phê duyệt trước khi tiến hành."
+  },
+  {
+    "id": "352",
+    "question": "Trong quản lý nguồn nhân lực dự án, công cụ nào thể hiện cơ cấu của tổ chức theo chức năng?",
+    "options": ["OBS.", "RAM.", "WBS.", "RACI."],
+    "correctOption": "OBS."
+  },
+  {
+    "id": "353",
+    "question": "Nhận diện và kiểm soát rủi ro trong các dự án phần mềm là:",
+    "options": [
+      "Công việc đơn giản.",
+      "Công việc không hề đơn giản.",
+      "Công việc tương đối đơn giản.",
+      "Cả (A), (B) và (C) đều sai."
+    ],
+    "correctOption": "Công việc không hề đơn giản."
+  },
+  {
+    "id": "354",
+    "question": "Trong phân tích giá trị thu được, chỉ số then chốt về chi phí là:",
+    "options": ["BCWS.", "ACWP.", "BCWP.", "Cả (A), (B) và (C) đều đúng."],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "355",
+    "question": "BCWP (Budget cost of work performed) là:",
+    "options": [
+      "Chi phí thực tế của công việc đã hoàn tất.",
+      "Chi phí dự tính theo ngân sách của công việc đã hoàn tất.",
+      "Chi phí dự tính theo ngân sách của công việc theo kế hoạch.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Chi phí dự tính theo ngân sách của công việc đã hoàn tất."
+  },
+  {
+    "id": "356",
+    "question": ".....là quá trình xem xét tất cả các đề xuất thay đổi, phê duyệt các đề xuất thay đổi và thực hiện các thay đổi.",
+    "options": ["Quản lý thay đổi.", "Quản lý thay đổi tích hợp.", "Quản lý yêu cầu."],
+    "correctOption": "Quản lý thay đổi."
+  },
+  {
+    "id": "357",
+    "question": "Khi thành lập đội dự án, người quản lý dự án cần phải biết kỹ năng của từng thành viên tương lai để:",
+    "options": [
+      "Xác định đội trưởng.",
+      "Xác định ngân sách của dự án.",
+      "Phân công công việc.",
+      "Xác định thời gian thực hiện dự án."
+    ],
+    "correctOption": "Phân công công việc."
+  },
+  {
+    "id": "358",
+    "question": "Nhóm quy trình quản lý dự án nào được lặp đi lặp lại trong suốt vòng đời dự án?",
+    "options": [
+      "Khởi động, lập kế hoạch, kiểm soát.",
+      "Lập kế hoạch, kiểm soát, kết thúc.",
+      "Khởi động, lập kế hoạch, thực hiện.",
+      "Lập kế hoạch, thực hiện, kiểm soát."
+    ],
+    "correctOption": "Lập kế hoạch, thực hiện, kiểm soát."
+  },
+  {
+    "id": "359",
+    "question": "Trong ước lượng phần mềm, phương pháp ước lượng từ dưới lên (bottom-up) cho rằng:",
+    "options": [
+      "Chi phí sẽ được ước lượng chi tiết dựa vào các công việc trong dự án.",
+      "Chi phí sẽ được ước lượng ở mức thấp nhất nếu có thể.",
+      "Ngân sách năm nay sẽ nhiều hơn 20% so với năm trước.",
+      "Ngân sách năm nay sẽ ít hơn 20% so với năm trước."
+    ],
+    "correctOption": "Chi phí sẽ được ước lượng chi tiết dựa vào các công việc trong dự án."
+  },
+  {
+    "id": "360",
+    "question": "Chiến lược chuyển giao các rủi ro được thực hiện thông qua:",
+    "options": [
+      "Mua bảo hiểm để chia sẻ chi phí.",
+      "Đề nghị với khách hàng chấp nhận và chia sẻ rủi ro.",
+      "Báo cáo ban lãnh đạo cấp cao.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "361",
+    "question": "Hoạt động chính ở giai đoạn khởi động dự án là:",
+    "options": [
+      "Hoạch định nguồn nhân lực dự án.",
+      "Phát triển điều lệ dự án.",
+      "Phát triển hoạch dự án.",
+      "Lập báo cáo nghiên cứu khả thi."
+    ],
+    "correctOption": "Lập báo cáo nghiên cứu khả thi."
+  },
+  {
+    "id": "362",
+    "question": "Các nghiên cứu gần đây chỉ ra rằng ước lượng phần mềm có sai số khoảng:",
+    "options": ["30%", "20%", "25%", "35%"],
+    "correctOption": "25%"
+  },
+  {
+    "id": "363",
+    "question": "Điều chỉnh lịch trình nhiệm vụ để triển khai nguồn nhân lực hiệu quả hơn được gọi là?",
+    "options": ["Tái nguồn lực.", "Tối ưu hoá nguồn lực.", "Điều chỉnh nguồn lực.", "Tăng tốc nguồn lực."],
+    "correctOption": "Tối ưu hoá nguồn lực."
+  },
+  {
+    "id": "364",
+    "question": "Trong tháp nhu cầu của Maslow, sau khi thỏa mãn được nhu cầu an toàn thì con người sẽ có nhu cầu tiếp theo là?",
+    "options": ["Nhu cầu giao tiếp.", "Nhu cầu sinh lý.", "Nhu cầu được tôn trọng.", "Nhu cầu tự hoàn thiện."],
+    "correctOption": "Nhu cầu giao tiếp."
+  },
+  {
+    "id": "365",
+    "question": "Khi phân tích giá trị thu được của dự án và biểu diễn trạng thái của dự án bằng biểu đồ thì số khả năng của trạng thái là:",
+    "options": ["6", "4", "5", "3"],
+    "correctOption": "5"
+  },
+  {
+    "id": "366",
+    "question": "Chọn phát biểu đúng về rủi ro:",
+    "options": [
+      "Rủi ro là một sự kiện hoặc trường hợp có tính xác suất.",
+      "Rủi ro có thể ảnh hưởng đến 1 công việc hoặc toàn bộ dự án.",
+      "Rủi ro làm cho dự án có khả năng bị chậm trễ hoặc bị thất bại.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "367",
+    "question": "Kỹ thuật thu thập yêu cầu phần mềm nào dễ thực hiện và thông tin thu thập được sẽ khách quan và chính xác?",
+    "options": ["Xem xét phần mềm hiện có.", "Họp nhóm.", "Xem xét tài liệu.", "Phỏng vấn."],
+    "correctOption": "Phỏng vấn."
+  },
+  {
+    "id": "368",
+    "question": "Những thông tin nào được ghi nhận trong hoạt động giám sát dự án?",
+    "options": [
+      "Hiện trạng các công việc.",
+      "Tiến độ thực hiện.",
+      "Kinh phí đã sử dụng.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "369",
+    "question": "Trong phương pháp ước lượng điểm trường hợp sử dụng, giá trị của tham số C, của biểu thức tính yếu tố phức tạp môi trường (EF) có giá trị là:",
+    "options": ["0.03", "0,03", "-0.3", "0,3"],
+    "correctOption": "0.03"
+  },
+  {
+    "id": "370",
+    "question": "Chọn hoạt động khánh phải là cách giảm thiểu tác động của rủi ro nhân viên bỏ dự án:",
+    "options": [
+      "Phản ứng nhanh với việc nhân viên bỏ dự án.",
+      "Chuẩn bị nhân sự dự phòng để bổ sung cho dự án.",
+      "Xoay vòng công việc giữa các thành viên trong nhóm.",
+      "Họp để xây dựng đội dự án."
+    ],
+    "correctOption": "Chuẩn bị nhân sự dự phòng để bổ sung cho dự án."
+  },
+  {
+    "id": "371",
+    "question": "Chiến lược tránh né các rủi ro được thực hiện thông qua:",
+    "options": [
+      "Chọn phương pháp, công cụ và con người.",
+      "Thương lượng với khách hàng (hoặc nội bộ) để thay đổi mục tiêu.",
+      "Chuyển rủi ro cho các bên liên quan.",
+      "(A) và (B) đều đúng."
+    ],
+    "correctOption": "(A) và (B) đều đúng."
+  },
+  {
+    "id": "372",
+    "question": "Yếu tố nào sau đây không được đề cập trong nghiên cứu khả thi của dự án phần mềm:",
+    "options": [
+      "Nghiên cứu thị trường.",
+      "Giải pháp thực hiện dự án.",
+      "Thông tin về sản phẩm.",
+      "Khả năng thực hiện dự án."
+    ],
+    "correctOption": "Thông tin về sản phẩm."
+  },
+  {
+    "id": "373",
+    "question": "Chọn yếu tố không phải là nguồn gốc rủi ro trong các dự án phần mềm:",
+    "options": [
+      "Khó khăn về kỹ thuật.",
+      "Thay đổi về phạm vi.",
+      "Ngân sách thực hiện dự án.",
+      "Sự hiểu biết về kỹ thuật của người dùng."
+    ],
+    "correctOption": "Sự hiểu biết về kỹ thuật của người dùng."
+  },
+  {
+    "id": "374",
+    "question": "Phương pháp ước lượng nào sau đây có ưu điểm có độ chính xác cao?",
+    "options": ["Từ dưới lên.", "Từ trên xuống.", "Số dòng lệnh.", "Trả giá để thắng."],
+    "correctOption": "Từ dưới lên."
+  },
+  {
+    "id": "375",
+    "question": "Mục tiêu của lập kế hoạch tiến độ là:",
+    "options": [
+      "Làm cơ sở để giám sát tiến độ dự án.",
+      "Làm cơ sở để giám sát thời gian thực hiện các công việc dự án.",
+      "Cả (A) và (B) đều đúng.",
+      "Cả (A) và (B) đều sai."
+    ],
+    "correctOption": "Cả (A) và (B) đều đúng."
+  },
+  {
+    "id": "376",
+    "question": "Theo lý thuyết nhu cầu đã được thỏa mãn của McClelland, con người mong muốn tác động, ảnh hưởng và kiểm soát tài nguyên, kiểm soát người khác nếu có lợi cho họ là thuộc về nhu cầu nào sau đây?",
+    "options": ["Quyền lực.", "Sự tự hoàn thiện.", "Thành tích.", "Liên minh."],
+    "correctOption": "Quyền lực."
+  },
+  {
+    "id": "377",
+    "question": "Trong cấu trúc của tổ chức nào sau đây, người quản lý dự án có quyền lực:",
+    "options": ["Tổ chức theo dự án.", "Tổ chức ma trận.", "Tổ chức theo chức năng.", "Tổ chức theo phân cấp."],
+    "correctOption": "Tổ chức theo dự án."
+  },
+  {
+    "id": "378",
+    "question": "Dự án nào sau đây không phải là một dự án phần mềm?",
+    "options": [
+      "Dự án xây dựng phần mềm thi trắc nghiệm trực tuyến.",
+      "Dự án triển khai cải cách thủ tục hành chính trên địa bàn tỉnh An Giang.",
+      "Dự án xây dựng phần mềm quản lý nhân sự.",
+      "Cả (A), (B) và (C) đều sai."
+    ],
+    "correctOption": "Dự án triển khai cải cách thủ tục hành chính trên địa bàn tỉnh An Giang."
+  },
+  {
+    "id": "379",
+    "question": "Yếu tố nào sau đây là đầu vào của hoạt động xây dựng WBS của dự án phần mềm?",
+    "options": [
+      "Quy trình phát triển phần mềm.",
+      "Báo cáo yêu cầu.",
+      "Báo cáo phạm vi dự án.",
+      "Cả (A), (B) và (C) đều đúng."
+    ],
+    "correctOption": "Cả (A), (B) và (C) đều đúng."
+  },
+  {
+    "id": "380",
+    "question": "Trong phương pháp ước lượng điểm trường hợp sử dụng, tiêu chí để một trường hợp sử dụng (use case) được xếp vào loại phức tạp là:",
+    "options": [
+      "Số lượng giao dịch của trường hợp sử dụng từ 4 đến 7.",
+      "Số lượng giao dịch của trường hợp sử dụng ≤ 3.",
+      "Số lượng giao dịch của trường hợp sử dụng >7.",
+      "Cả (A), (B) và (C) đều sai."
+    ],
+    "correctOption": "Số lượng giao dịch của trường hợp sử dụng >7."
+  },
+  {
+    "id": "381",
+    "question": "Đối với dự án phần mềm nhỏ với vài người tham gia và thời gian thực hiện trong vài tháng thì kế hoạch chỉ có:",
+    "options": ["Điều lệ dự án.", "Sơ đồ Gantt.", "Báo cáo phạm vi dự án.", "Cả (A), (B) và (C) đều đúng."],
+    "correctOption": "Sơ đồ Gantt."
+  },
+  {
+    "id": "382",
+    "question": "Đối với dự án phần mềm đơn giản và người quản lý đã hiểu rõ các yêu cầu cho nên:",
+    "options": [
+      "Người quản lý có thể nhớ đầy đủ công việc phải thực hiện.",
+      "Người quản lý không cần lập kế hoạch quản lý phạm vi.",
+      "Người quản lý có thể tự lập kế hoạch dự án.",
+      "Cả (a) (b) và (c) đều đúng."
+    ],
+    "correctOption": "Cả (a) (b) và (c) đều đúng."
+  }
+]
