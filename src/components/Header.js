@@ -5,7 +5,7 @@ function Header() {
       <div style={{ marginTop: 10, fontSize: '1.6rem' }}>
         Làm đuối quá thì giải trí ở đây đi{' '}
         <h2>
-          <a href="https://newmoviesz.online/" target="_blank">
+          <a href="https://newmoviesz.online/" target="_blank" style={{ color: '#fff' }}>
             Xem phim
           </a>
         </h2>
