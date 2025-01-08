@@ -7,7 +7,10 @@ function StartScreen({ numQuestions, dispatch }) {
         Bắt đầu
       </button>
       <div style={{ marginTop: 12 }}>
-        <h3>*Lưu ý: Nếu đang làm mà bị restart thì có thể bắt đầu lại và chọn từ câu muốn làm tiếp</h3>
+        <h3>
+          *Lưu ý: Nếu đang làm mà bị restart thì có thể bắt đầu lại và chọn từ câu muốn làm tiếp{' '}
+          {'( Mặc định các câu trước đó sẽ tính là sai )'}.
+        </h3>
       </div>
 
       <span>© by huusangcv</span>
