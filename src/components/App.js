@@ -56,7 +56,7 @@ function reducer(state, action) {
         points: question.options[action.payload] === question.correctOption ? state.points + 1 : state.points,
       };
     case 'newAnswerChoseQuestion':
-      const questionChose = state.questions.at(state.index);
+      // const questionChose = state.questions.at(state.index);
       return {
         ...state,
         points: state.points + action.payload,

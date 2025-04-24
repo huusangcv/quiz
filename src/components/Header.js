@@ -1,11 +1,11 @@
-import ReactLogo from './React_logo1.png'; // Import the image
+// import ReactLogo from './React_logo1.png'; // Import the image
 function Header() {
   return (
     <header className="app-header">
       <div style={{ marginTop: 10, fontSize: '1.6rem' }}>
         Làm đuối quá thì giải trí ở đây đi{' '}
         <h2>
-          <a href="https://newmoviesz.online/" target="_blank" style={{ color: '#fff' }}>
+          <a href="https://newmoviesz.online/" target="_blank" rel="noreferrer" style={{ color: '#fff' }}>
             Xem phim
           </a>
         </h2>
